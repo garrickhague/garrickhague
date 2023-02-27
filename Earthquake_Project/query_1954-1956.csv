@@ -1,0 +1,673 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1956-02-25T22:34:40.240Z,30.9248333,-116.0063333,6,4.86,ml,8,348,,0.83,ci,ci3297625,2016-01-28T18:19:05.390Z,"103km SSE of Maneadero, B.C., MX",earthquake,26.6,31.61,0.055,7,reviewed,ci,ci
+1956-02-25T08:08:52.190Z,31.7971667,-115.4606667,6,4.9,ml,6,337,,0.54,ci,ci3297622,2017-02-07T00:51:18.960Z,"55km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,14.55,31.61,0.081,9,reviewed,ci,ci
+1956-02-24T20:22:25.310Z,31.7543333,-116.3503333,6,4.67,ml,6,338,0.9625,0.36,ci,ci3297621,2017-02-07T01:09:25.048Z,"21km ENE of Maneadero, B.C., MX",earthquake,11.9,31.61,0.109,9,reviewed,ci,ci
+1956-02-24T16:59:36.250Z,31.3546667,-115.7596667,6,4.81,ml,5,343,1.532,0.74,ci,ci3297620,2016-01-28T18:05:12.630Z,"86km ESE of Maneadero, B.C., MX",earthquake,23.88,31.61,0.12,7,reviewed,ci,ci
+1956-02-24T14:04:42.650Z,31.3986667,-115.7811667,6,4.72,ml,6,343,,0.63,ci,ci3297618,2016-01-28T18:23:33.260Z,"82km ESE of Maneadero, B.C., MX",earthquake,19.66,31.61,0.165,9,reviewed,ci,ci
+1956-02-24T13:16:56.020Z,31.4991667,-115.3506667,6,4.55,ml,3,342,,0.34,ci,ci3297597,2016-01-28T18:23:32.730Z,"83km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,10.9,31.61,0.107,9,reviewed,ci,ci
+1956-02-24T09:18:56.180Z,-35.347,-179.564,25,6.18,mw,,,,,iscgem,iscgem888005,2022-04-26T17:22:52.854Z,"east of the North Island of New Zealand",earthquake,,3.9,0.37,,reviewed,iscgem,iscgem
+1956-02-23T01:21:08.860Z,31.144,-42.411,15,5.71,mw,,,,,iscgem,iscgem888001,2022-04-26T17:22:51.773Z,"northern Mid-Atlantic Ridge",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1956-02-22T09:59:33.170Z,-3.647,68.239,15,6.04,mw,,,,,iscgem,iscgem888000,2022-04-26T17:22:50.614Z,"Chagos Archipelago region",earthquake,,3.4,0.56,,reviewed,iscgem,iscgem
+1956-02-22T00:07:39.860Z,73.319,8.009,15,5.24,mw,,,,,iscgemsup,iscgemsup887998,2022-05-09T19:55:33.699Z,"Greenland Sea",earthquake,,3.1,0.73,,reviewed,iscgemsup,iscgemsup
+1956-02-21T02:49:51.550Z,31.6351667,-115.3431667,6,4.55,ml,8,340,,0.57,ci,ci3297591,2017-02-07T01:28:31.143Z,"68km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,13.96,31.61,0.147,10,reviewed,ci,ci
+1956-02-20T20:31:41.100Z,39.891,30.543,15,6.23,mw,,,,,iscgem,iscgem887994,2022-04-26T17:22:44.360Z,"12 km N of Eski?ehir, Turkey",earthquake,,4.5,0.5,,reviewed,iscgem,iscgem
+1956-02-19T06:54:00.000Z,31.5,-115.5,6,4.7,mh,,,,,ci,ci10086450,2016-01-28T18:09:41.620Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-19T04:13:23.100Z,58.366,-154.067,60,5.69,mw,,,,,iscgem,iscgem887987,2022-04-26T17:22:43.278Z,"76 km WNW of Aleneva, Alaska",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1956-02-19T02:18:05.480Z,51.597,-131.556,15,6.49,mw,,,,,iscgem,iscgem887985,2022-04-26T17:22:41.859Z,"Haida Gwaii Region, Canada",earthquake,,10.7,0.25,,reviewed,iscgem,iscgem
+1956-02-19T01:58:00.000Z,31.5,-115.5,6,4.5,mh,,,,,ci,ci10086446,2016-01-28T17:56:18.760Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-18T15:11:00.000Z,31.5,-115.5,6,4.6,mh,,,,,ci,ci10086442,2016-01-28T18:23:33.810Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-18T07:34:25.520Z,30.206,138.102,484.1,7.3,mw,,,,,iscgem,iscgem887981,2022-04-26T17:22:40.696Z,"Izu Islands, Japan region",earthquake,,6.3,0.2,,reviewed,iscgem,iscgem
+1956-02-17T10:40:03.440Z,31.4848333,-115.6145,6,4.63,ml,8,343,,0.15,ci,ci3297587,2016-01-28T18:14:33.200Z,"93km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,5.28,31.61,0.246,7,reviewed,ci,ci
+1956-02-17T09:53:59.000Z,-47.902,-15.699,15,6.27,mw,,,,,iscgem,iscgem887979,2022-04-26T17:22:39.563Z,"southern Mid-Atlantic Ridge",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1956-02-17T09:25:04.750Z,31.5661667,-115.4845,6,4.83,ml,8,342,,0.6,ci,ci3297586,2017-02-07T00:59:00.791Z,"79km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,14.41,31.61,0.079,9,reviewed,ci,ci
+1956-02-17T06:25:00.000Z,31.5,-115.5,6,4.7,mh,,,,,ci,ci10086438,2016-01-28T18:28:21.730Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-17T03:57:00.000Z,31.5,-115.5,6,4.5,mh,,,,,ci,ci10086434,2016-01-28T17:56:18.330Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-17T01:13:00.000Z,31.5,-115.5,6,4.5,mh,,,,,ci,ci10086430,2016-01-28T17:56:17.920Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-16T08:12:28.350Z,31.374,-115.7025,6,5.06,ml,8,343,,1.11,ci,ci3297585,2016-01-28T18:14:32.700Z,"90km ESE of Maneadero, B.C., MX",earthquake,26.06,31.61,0.22,9,reviewed,ci,ci
+1956-02-16T05:53:01.620Z,31.3136667,-115.5536667,6,4.94,ml,9,343,,0.94,ci,ci3297584,2016-01-28T18:28:18.980Z,"106km ESE of Maneadero, B.C., MX",earthquake,21.16,31.61,0.176,9,reviewed,ci,ci
+1956-02-16T01:30:09.970Z,31.4963333,-115.6393333,6,4.57,ml,3,350,1.47,0.4,ci,ci3297583,2016-01-28T18:14:32.210Z,"91km ESE of Maneadero, B.C., MX",earthquake,20.76,31.61,0.198,5,reviewed,ci,ci
+1956-02-15T18:54:44.140Z,31.5035,-115.3103333,6,4.9,ml,7,341,,0.32,ci,ci3297581,2017-02-07T00:46:44.483Z,"82km S of Alberto Oviedo Mota, B.C., MX",earthquake,7.33,31.61,0.055,5,reviewed,ci,ci
+1956-02-15T15:49:28.720Z,27.912,52.773,15,5.84,mw,,,,,iscgem,iscgem887969,2022-04-26T17:22:38.362Z,"southern Iran",earthquake,,2.2,0.47,,reviewed,iscgem,iscgem
+1956-02-15T09:31:00.000Z,31.5,-115.5,6,4.5,mh,,,,,ci,ci10086426,2016-04-02T13:46:12.413Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-15T08:35:53.540Z,31.4731667,-115.3578333,6,5.06,ml,7,342,,0.52,ci,ci3297580,2016-01-28T18:00:32.890Z,"86km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,12.09,31.61,0.114,8,reviewed,ci,ci
+1956-02-15T07:07:47.630Z,31.7213333,-115.2528333,6,5.21,ml,9,335,1.537,0.59,ci,ci3297577,2017-02-07T00:43:50.863Z,"57km S of Alberto Oviedo Mota, B.C., MX",earthquake,11.77,31.61,0.034,8,reviewed,ci,ci
+1956-02-15T07:04:00.000Z,31.5,-115.5,6,4.6,mh,,,,,ci,ci10086422,2016-01-28T18:05:14.020Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-15T06:43:00.000Z,31.5,-115.5,6,4.5,mh,,,,,ci,ci10086418,2016-01-28T18:00:36.580Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-15T06:00:00.000Z,31.5,-115.5,6,4.6,mh,,,,,ci,ci10086414,2016-01-28T18:00:36.160Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-15T02:40:00.000Z,31.5,-115.5,6,4.5,mh,,,,,ci,ci10086410,2016-01-28T18:05:13.600Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-15T02:28:37.230Z,30.982,-116.2263333,6,5.33,ml,10,343,,0.78,ci,ci3297575,2016-01-28T18:28:18.490Z,"88km SSE of Maneadero, B.C., MX",earthquake,20.5,31.61,0.181,9,reviewed,ci,ci
+1956-02-15T01:20:43.800Z,31.25,-115.9,6,4.84,ml,0,360,2.25,0,ci,ci3297568,2021-07-07T19:00:43.535Z,"82km SE of Maneadero, B.C., MX",earthquake,,,0.098,5,reviewed,ci,ci
+1956-02-15T01:20:35.270Z,31.149,-115.4846667,6,6.52,ml,11,344,,0.67,ci,ci3297567,2022-04-26T17:22:33.231Z,"120km ESE of Maneadero, B.C., MX",earthquake,13.8,31.61,0.056,6,reviewed,ci,ci
+1956-02-14T22:07:00.000Z,31.5,-115.5,6,4.7,mh,,,,,ci,ci10086406,2016-01-28T18:05:13.180Z,"87km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-14T18:41:14.650Z,31.45,-115.9,6,4.56,ml,4,348,1.391,6.39,ci,ci3297565,2016-01-28T18:05:11.060Z,"70km ESE of Maneadero, B.C., MX",earthquake,99,31.61,0.197,5,reviewed,ci,ci
+1956-02-14T18:40:36.400Z,31.4291667,-116.2415,6,4.64,ml,3,355,1.3,1.31,ci,ci3297564,2016-01-28T18:23:31.240Z,"44km SE of Maneadero, B.C., MX",earthquake,89.88,31.61,0.065,7,reviewed,ci,ci
+1956-02-14T18:39:08.750Z,31.4108333,-116.1818333,6,4.53,ml,3,355,1.332,1.33,ci,ci3297563,2016-01-28T18:23:30.750Z,"50km SE of Maneadero, B.C., MX",earthquake,79.75,31.61,0.258,7,reviewed,ci,ci
+1956-02-14T18:33:28.320Z,31.0201667,-115.4816667,6,6.43,ml,10,344,,0.42,ci,ci3297559,2022-04-26T17:22:27.586Z,"129km SE of Maneadero, B.C., MX",earthquake,11.71,31.61,0.042,6,reviewed,ci,ci
+1956-02-14T14:45:31.660Z,31.4565,-115.4521667,6,5.09,ml,8,343,1.6,0.37,ci,ci3297558,2016-01-28T18:00:32.350Z,"90km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,8.46,31.61,0.098,9,reviewed,ci,ci
+1956-02-14T12:35:13.020Z,19.149,119.821,15,6.09,mw,,,,,iscgem,iscgem887957,2022-04-26T17:22:26.216Z,"109 km NW of Davila, Philippines",earthquake,,5,0.2,,reviewed,iscgem,iscgem
+1956-02-14T12:33:54.780Z,18.462,119.42,15,5.91,mw,,,,,iscgem,iscgem887956,2022-04-26T17:22:24.831Z,"120 km WNW of Callaguip, Philippines",earthquake,,3.3,0.44,,reviewed,iscgem,iscgem
+1956-02-14T09:53:24.050Z,36.442,1.62,15,5.27,mw,,,,,iscgemsup,iscgemsup887955,2022-05-09T19:55:29.617Z,"",earthquake,,11.3,0.33,,reviewed,iscgemsup,iscgemsup
+1956-02-14T00:52:55.430Z,35.707,140.024,40,5.51,mw,,,,,iscgem,iscgem887953,2022-04-26T17:22:23.476Z,"3 km E of Honch?, Japan",earthquake,,4.7,0.62,,reviewed,iscgem,iscgem
+1956-02-13T14:20:56.130Z,18.691,119.612,15,6.08,mw,,,,,iscgemsup,iscgemsup887948,2022-05-09T19:55:23.010Z,"104 km WNW of Davila, Philippines",earthquake,,3.3,0.86,,reviewed,iscgemsup,iscgemsup
+1956-02-12T11:49:27.150Z,18.787,119.641,20.7,6.43,mw,,,,,iscgem,iscgem887943,2022-04-26T17:22:22.185Z,"104 km WNW of Davila, Philippines",earthquake,,4.5,0.32,,reviewed,iscgem,iscgem
+1956-02-11T06:24:28.090Z,31.4261667,-115.9403333,6,5.37,ml,8,341,,0.16,ci,ci3297555,2016-01-28T18:00:31.320Z,"68km ESE of Maneadero, B.C., MX",earthquake,5.29,31.61,0.153,9,reviewed,ci,ci
+1956-02-11T06:11:26.230Z,31.7313333,-116.1338333,6,4.89,ml,6,340,,0.38,ci,ci3297554,2017-02-07T00:39:03.362Z,"41km E of Maneadero, B.C., MX",earthquake,11.59,31.61,0.067,7,reviewed,ci,ci
+1956-02-11T05:19:06.650Z,31.4941667,-115.8503333,6,4.94,ml,9,341,,0.41,ci,ci3297553,2016-01-28T18:14:31.150Z,"72km ESE of Maneadero, B.C., MX",earthquake,10.18,31.61,0.095,8,reviewed,ci,ci
+1956-02-11T02:57:47.150Z,31.6488333,-116.1365,6,4.96,ml,7,338,,0.3,ci,ci3297552,2017-02-07T00:33:56.546Z,"41km E of Maneadero, B.C., MX",earthquake,7.15,31.61,0.134,8,reviewed,ci,ci
+1956-02-10T19:48:00.000Z,31.75,-116,6,4.5,mh,,,,,ci,ci10086402,2016-01-28T17:56:17.500Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T18:12:54.510Z,31.609,-116.1346667,6,5.43,ml,7,340,1.161,0.63,ci,ci3297551,2017-02-07T00:25:40.958Z,"43km ESE of Maneadero, B.C., MX",earthquake,14.47,31.61,0.139,10,reviewed,ci,ci
+1956-02-10T15:09:32.020Z,31.6805,-116.3135,6,4.78,ml,7,337,1.042,0.48,ci,ci3297549,2016-01-28T18:05:10.530Z,"24km E of Maneadero, B.C., MX",earthquake,12.98,31.61,0.087,6,reviewed,ci,ci
+1956-02-10T14:30:12.550Z,31.671,-116.1041667,6,4.77,ml,7,339,1.115,0.26,ci,ci3297548,2016-01-28T18:28:16.960Z,"44km E of Maneadero, B.C., MX",earthquake,6.72,31.61,0.1,6,reviewed,ci,ci
+1956-02-10T13:42:00.000Z,31.6,-116,6,4.6,mh,,,,,ci,ci3297550,2016-04-02T09:52:01.203Z,"55km ESE of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T12:30:00.000Z,31.75,-116,6,4.5,mh,,,,,ci,ci10086398,2016-01-28T18:19:07.510Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T11:41:00.000Z,31.75,-116,6,4.5,mh,,,,,ci,ci10086394,2016-01-28T18:14:36.270Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T07:33:44.990Z,31.4896667,-115.7523333,6,4.77,ml,7,343,1.421,0.67,ci,ci3297547,2016-01-28T18:14:30.190Z,"81km ESE of Maneadero, B.C., MX",earthquake,19.99,31.61,0.075,7,reviewed,ci,ci
+1956-02-10T05:55:00.000Z,31.75,-116,6,4.6,mh,,,,,ci,ci10086390,2016-01-28T18:19:07.090Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T04:39:00.000Z,31.75,-116,6,4.5,mh,,,,,ci,ci10086386,2016-01-28T18:09:41.200Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T04:23:00.000Z,31.75,-116,6,4.5,mh,,,,,ci,ci10086382,2016-01-28T18:09:40.770Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T04:20:00.000Z,31.75,-116,6,4.6,mh,,,,,ci,ci10086378,2016-01-28T18:00:35.740Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T04:18:16.790Z,31.5745,-115.605,6,5.02,ml,7,343,1.426,0.59,ci,ci3297546,2016-01-28T18:09:38.100Z,"83km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,16.28,31.61,0.083,7,reviewed,ci,ci
+1956-02-10T03:57:00.000Z,31.75,-116,6,4.5,mh,,,,,ci,ci10086374,2016-01-28T18:19:06.640Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T02:53:00.000Z,31.75,-116,6,4.5,mh,,,,,ci,ci10086370,2016-01-28T18:28:21.290Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T00:32:00.000Z,31.75,-116,6,4.5,mh,,,,,ci,ci10086366,2016-01-28T18:14:35.850Z,"54km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-10T00:02:44.660Z,37.229,142.306,38.5,6.1,mw,,,,,iscgem,iscgem887930,2022-04-26T17:22:20.831Z,"119 km ESE of Namie, Japan",earthquake,,4.9,0.23,,reviewed,iscgem,iscgem
+1956-02-09T23:56:00.000Z,31.7,-115.9,6,4.5,mh,,,,,ci,ci10086362,2016-01-28T18:28:20.870Z,"63km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-09T21:07:11.100Z,31.737,-116.1815,6,4.8,ml,4,344,1.028,0.24,ci,ci3297541,2016-01-28T18:05:09.540Z,"36km E of Maneadero, B.C., MX",earthquake,10.89,31.61,0.018,7,reviewed,ci,ci
+1956-02-09T18:48:44.900Z,31.7816667,-115.7666667,6,5.56,ml,8,331,1.18,0.33,ci,ci3297542,2020-07-09T21:23:44.361Z,"75km SW of Alberto Oviedo Mota, B.C., MX",earthquake,5.32,31.61,0.105,10,reviewed,ci,ci
+1956-02-09T17:50:34.120Z,31.6931667,-115.9931667,6,4.68,ml,5,340,1.14,0.42,ci,ci3297540,2016-01-28T18:23:29.790Z,"54km E of Maneadero, B.C., MX",earthquake,11.96,31.61,0.102,9,reviewed,ci,ci
+1956-02-09T17:47:00.000Z,31.7,-115.9,6,4.6,mh,,,,,ci,ci10086358,2016-01-28T18:28:20.450Z,"63km E of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-09T17:23:13.610Z,31.5101667,-115.8471667,6,4.74,ml,7,341,1.36,0.24,ci,ci3297539,2016-01-28T18:05:09.020Z,"72km ESE of Maneadero, B.C., MX",earthquake,6.82,31.61,0.209,8,reviewed,ci,ci
+1956-02-09T17:07:44.520Z,31.501,-116.0518333,6,4.8,ml,3,358,1.288,0.96,ci,ci3297538,2016-01-28T18:28:16.460Z,"54km ESE of Maneadero, B.C., MX",earthquake,60.81,31.61,0.16,8,reviewed,ci,ci
+1956-02-09T16:59:53.860Z,31.6146667,-116.1346667,6,5.58,ml,10,340,1.156,0.36,ci,ci3297537,2020-07-09T21:23:30.424Z,"42km ESE of Maneadero, B.C., MX",earthquake,7.78,31.61,0.228,7,reviewed,ci,ci
+1956-02-09T16:29:49.020Z,31.0435,-115.677,6,5.89,ml,10,343,1.838,0.78,ci,ci3297536,2020-07-09T21:23:13.606Z,"113km SE of Maneadero, B.C., MX",earthquake,18.61,31.61,0.294,4,reviewed,ci,ci
+1956-02-09T15:45:00.000Z,31.6,-116.1,6,4.73,ml,,,,,ci,ci3297533,2016-01-28T18:23:29.330Z,"46km ESE of Maneadero, B.C., MX",earthquake,,,0.119,6,reviewed,ci,ci
+1956-02-09T15:41:00.000Z,31.6,-116.1,6,4.55,ml,,,,,ci,ci3297531,2016-01-28T18:28:16.000Z,"46km ESE of Maneadero, B.C., MX",earthquake,,,0.098,6,reviewed,ci,ci
+1956-02-09T15:24:24.160Z,31.5171667,-115.915,6,6.2,ml,10,341,1.326,0.65,ci,ci3297529,2020-07-09T21:22:51.361Z,"66km ESE of Maneadero, B.C., MX",earthquake,11.74,31.61,0.033,5,reviewed,ci,ci
+1956-02-09T15:01:36.520Z,31.3705,-116.099,6,5.36,ml,2,357,1.393,1.06,ci,ci3297528,2016-01-28T18:23:28.850Z,"59km SE of Maneadero, B.C., MX",earthquake,69.27,31.61,0.032,6,reviewed,ci,ci
+1956-02-09T14:48:34.640Z,31.8,-116.2,6,4.7,ml,0,360,2.401,0,ci,ci3297526,2016-01-28T18:19:04.430Z,"36km ENE of Maneadero, B.C., MX",earthquake,,,0.078,6,reviewed,ci,ci
+1956-02-09T14:46:26.440Z,31.8,-116.2,6,4.91,ml,0,358.1,1.647,1.724,ci,ci3297525,2016-01-28T18:05:08.550Z,"36km ENE of Maneadero, B.C., MX",earthquake,,,0.177,7,reviewed,ci,ci
+1956-02-09T14:34:15.770Z,31.8,-116.2,6,5.6,mh,0,360,1.647,1.018,ci,ci3297522,2020-07-09T21:22:38.616Z,"36km ENE of Maneadero, B.C., MX",earthquake,,,,0,reviewed,ci,ci
+1956-02-09T14:32:41.910Z,31.8321667,-116.2308333,6,6.8,ms,6,339,0.9244,0.1,ci,ci3297521,2022-04-26T17:22:19.406Z,"34km ENE of Maneadero, B.C., MX",earthquake,4.34,31.61,,0,reviewed,ci,ci
+1956-02-09T14:16:25.320Z,31.6708333,-116.1426667,6,4.56,ml,7,338,,0.21,ci,ci3297519,2016-01-28T17:56:14.470Z,"40km E of Maneadero, B.C., MX",earthquake,4.63,31.61,0.116,6,reviewed,ci,ci
+1956-02-03T13:16:05.430Z,32.991,46.606,15,5.75,mw,,,,,iscgem,iscgem887909,2022-04-26T17:22:17.859Z,"43 km ESE of Mehr?n, Iran",earthquake,,6.5,0.2,,reviewed,iscgem,iscgem
+1956-02-01T13:41:51.520Z,18.8,145.009,370.1,6.7,mw,,,,,iscgem,iscgem887899,2022-04-26T17:22:16.158Z,"Pagan region, Northern Mariana Islands",earthquake,,5.4,0.2,,reviewed,iscgem,iscgem
+1956-01-30T08:43:06.020Z,-37.306,177.208,15,6.23,mw,,,,,iscgem,iscgem887887,2022-04-26T17:22:14.417Z,"75 km NNE of Whakatane, New Zealand",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1956-01-29T22:20:59.270Z,20.855,120.891,35,6.12,mw,,,,,iscgem,iscgem887884,2022-04-26T17:22:13.069Z,"Philippine Islands region",earthquake,,5.1,0.52,,reviewed,iscgem,iscgem
+1956-01-28T07:42:53.620Z,-4.418,151.816,50,6.04,mw,,,,,iscgem,iscgem887880,2022-04-26T17:22:11.460Z,"45 km WSW of Rabaul, Papua New Guinea",earthquake,,4.8,0.24,,reviewed,iscgem,iscgem
+1956-01-28T04:52:32.100Z,0.679,-27.11,15,5.86,mw,,,,,iscgem,iscgem887879,2022-04-26T17:22:09.956Z,"central Mid-Atlantic Ridge",earthquake,,25,0.29,,reviewed,iscgem,iscgem
+1956-01-27T13:38:50.180Z,-26.251,-175.823,15,6.05,mw,,,,,iscgem,iscgem887877,2022-04-26T17:22:08.282Z,"south of Tonga",earthquake,,15,0.63,,reviewed,iscgem,iscgem
+1956-01-18T08:07:23.880Z,-24.307,-70.346,35,6.17,mw,,,,,iscgem,iscgem887847,2022-04-26T17:22:03.107Z,"72 km S of Antofagasta, Chile",earthquake,,4.8,0.34,,reviewed,iscgem,iscgem
+1956-01-17T08:00:51.320Z,-4.942,-105.451,15,6.16,mw,,,,,iscgem,iscgem887843,2022-04-26T17:21:57.435Z,"central East Pacific Rise",earthquake,,25,0.32,,reviewed,iscgem,iscgem
+1956-01-16T23:37:45.120Z,-0.727,-80.213,20,6.95,mw,,,,,iscgem,iscgem887842,2022-04-26T17:21:51.864Z,"7 km NNE of Tosagua, Ecuador",earthquake,,8.7,0.2,,reviewed,iscgem,iscgem
+1956-01-14T14:08:52.240Z,51.635,-173.029,46.5,5.99,mw,,,,,iscgem,iscgem887833,2022-04-26T17:21:50.242Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1956-01-13T06:16:18.930Z,-29.458,168.12,15,5.8,mw,,,,,iscgem,iscgem887829,2022-04-26T17:21:44.928Z,"Norfolk Island, Australia region",earthquake,,25,0.45,,reviewed,iscgem,iscgem
+1956-01-13T03:27:47.090Z,57.301,163.942,15,6.03,mw,,,,,iscgem,iscgem887827,2022-04-26T17:21:38.412Z,"149 km NE of Ust’-Kamchatsk Staryy, Russia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1956-01-12T05:46:13.180Z,47.443,19.282,15,5.79,mw,,,,,iscgem,iscgem887823,2022-04-26T17:21:32.619Z,"3 km W of Ecser, Hungary",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1956-01-11T06:10:11.270Z,8.002,94.133,14.8,6.28,mw,,,,,iscgem,iscgem887813,2022-04-26T17:21:27.257Z,"267 km NNW of Sabang, Indonesia",earthquake,,3.8,0.22,,reviewed,iscgem,iscgem
+1956-01-10T12:32:15.000Z,43.4,-127.3,,4.9,ml,,,,,ushis,ushis2077,2018-06-04T20:43:44.000Z,"236 km W of Bandon, Oregon",earthquake,,,,,reviewed,ushis,brk
+1956-01-10T08:52:43.250Z,-26.43,-175.241,35,6.99,mw,,,,,iscgem,iscgem887807,2022-04-26T17:21:22.134Z,"south of Tonga",earthquake,,25,0.27,,reviewed,iscgem,iscgem
+1956-01-08T20:54:23.420Z,-18.966,-70.507,51.5,6.59,mw,,,,,iscgem,iscgem887797,2022-04-26T17:21:20.609Z,"58 km SSW of Arica, Chile",earthquake,,5,0.2,,reviewed,iscgem,iscgem
+1956-01-08T07:11:30.990Z,16.802,-99.362,20,6.15,mw,,,,,iscgem,iscgem887794,2022-04-26T17:21:19.000Z,"2 km E of San Marcos, Mexico",earthquake,,14.3,0.21,,reviewed,iscgem,iscgem
+1956-01-06T23:32:47.140Z,15.59,-99.152,15,5.58,mw,,,,,iscgem,iscgem887786,2022-04-26T17:21:17.289Z,"111 km SSW of Barra de Tecoanapa, Mexico",earthquake,,9.2,0.2,,reviewed,iscgem,iscgem
+1956-01-06T22:25:05.890Z,38.455,142.172,35,5.77,mw,,,,,iscgem,iscgem887784,2022-04-26T17:21:16.466Z,"76 km E of Ishinomaki, Japan",earthquake,,4.8,0.68,,reviewed,iscgem,iscgem
+1956-01-06T12:15:44.970Z,40.418,26.487,15,5.71,mw,,,,,iscgem,iscgem887781,2022-04-26T17:21:15.342Z,"15 km W of Gelibolu, Turkey",earthquake,,6.4,0.21,,reviewed,iscgem,iscgem
+1956-01-03T15:41:09.780Z,49.179,156.038,57,5.83,mw,,,,,iscgem,iscgem887763,2022-04-26T17:21:13.885Z,"166 km S of Severo-Kuril’sk, Russia",earthquake,,5.3,0.26,,reviewed,iscgem,iscgem
+1956-01-03T14:24:01.250Z,32.3735,-116.0385,6,4.64,ml,7,321,,0.57,ci,ci3297475,2016-01-28T18:00:27.700Z,"40km S of Ocotillo, CA",earthquake,4.26,31.61,0.097,10,reviewed,ci,ci
+1956-01-03T00:25:49.130Z,33.7528333,-117.4906667,10.81,4.71,ml,13,145,,0.45,ci,ci3297472,2018-06-04T20:43:44.000Z,"14km NE of Trabuco Canyon, CA",earthquake,0.82,1.54,0.073,6,reviewed,ci,ci
+1955-12-31T13:51:04.000Z,39,-118.03,,4.5,ml,,,,,ushis,ushis2074,2018-06-04T20:43:44.000Z,"17 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-12-29T08:25:35.420Z,29.845,90.189,15,5.91,mw,,,,,iscgem,iscgem890207,2022-04-26T17:38:59.525Z,"52 km WSW of Dêqên, China",earthquake,,25,0.31,,reviewed,iscgem,iscgem
+1955-12-22T12:06:54.000Z,38.98,-118.7,,4.6,ml,,,,,ushis,ushis2073,2018-06-04T20:43:44.000Z,"10 km ENE of Schurz, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-12-22T12:05:07.000Z,38.98,-118.7,,4.8,ml,,,,,ushis,ushis2072,2018-06-04T20:43:44.000Z,"10 km ENE of Schurz, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-12-19T03:13:52.620Z,8.542,127.064,15,6.13,mw,,,,,iscgem,iscgem890180,2022-04-26T17:38:58.231Z,"81 km ENE of Barcelona, Philippines",earthquake,,15,0.26,,reviewed,iscgem,iscgem
+1955-12-17T06:52:02.620Z,32.953,-115.486,6,4.59,ml,9,286,1.035,0.57,ci,ci3297440,2018-06-04T20:43:44.000Z,"5km SE of Brawley, CA",earthquake,8.19,31.61,0.143,9,reviewed,ci,ci
+1955-12-17T06:07:27.900Z,32.9551667,-115.4718333,6,5.26,ml,9,287,1.047,0.23,ci,ci3297422,2022-04-26T17:38:56.560Z,"6km ESE of Brawley, CA",earthquake,1.94,31.61,0.217,12,reviewed,ci,ci
+1955-12-14T10:51:52.000Z,21.819,92.656,35,6.21,mw,,,,,iscgem,iscgem890164,2022-04-26T17:38:55.069Z,"61 km SE of B?ndarban, Bangladesh",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1955-12-07T15:03:15.270Z,26.497,142.908,10,6.9,mw,,,,,iscgem,iscgem890147,2022-04-26T17:38:53.794Z,"Bonin Islands, Japan region",earthquake,,25,0.4,,reviewed,iscgem,iscgem
+1955-12-06T04:31:05.220Z,-20.61,-70.338,35,6.3,mw,,,,,iscgem,iscgem890144,2022-04-26T17:38:52.646Z,"48 km SSW of Iquique, Chile",earthquake,,16.2,0.2,,reviewed,iscgem,iscgem
+1955-12-04T14:02:08.970Z,33.408,48.746,15,5.56,mw,,,,,iscgem,iscgem890139,2022-04-26T17:38:51.318Z,"28 km SW of Azn?, Iran",earthquake,,12.1,0.2,,reviewed,iscgem,iscgem
+1955-11-26T17:36:00.290Z,31.721,-116.0635,6,5.31,ml,9,328,1.087,0.44,ci,ci3297369,2016-01-28T18:00:22.950Z,"48km E of Maneadero, B.C., MX",earthquake,8.47,31.61,0.159,8,reviewed,ci,ci
+1955-11-24T04:51:29.240Z,19.221,120.947,35,5.72,mw,,,,,iscgem,iscgem890118,2022-04-26T17:38:49.993Z,"69 km NNW of Claveria, Philippines",earthquake,,13.6,0.67,,reviewed,iscgem,iscgem
+1955-11-23T06:29:35.430Z,50.722,156.805,53.3,6.71,mw,,,,,iscgem,iscgem890116,2022-04-26T17:38:47.689Z,"48 km E of Severo-Kuril’sk, Russia",earthquake,,5.2,0.4,,reviewed,iscgem,iscgem
+1955-11-22T03:24:06.810Z,-24.603,-122.607,10,6.19,mw,,,,,iscgem,iscgem890112,2022-04-26T17:38:42.304Z,"southern East Pacific Rise",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-11-17T06:53:33.310Z,-26.406,-70.155,33.8,6.35,mw,,,,,iscgem,iscgem890103,2022-04-26T17:38:40.629Z,"11 km WSW of Diego de Almagro, Chile",earthquake,,4.6,0.28,,reviewed,iscgem,iscgem
+1955-11-15T10:06:52.800Z,55.174,-155.697,27.6,6.09,mw,,,,,iscgem,iscgem890096,2022-04-26T17:38:39.143Z,"210 km SE of Chignik, Alaska",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1955-11-12T05:32:18.020Z,25.119,34.506,15,5.73,mw,,,,,iscgem,iscgem890081,2022-04-26T17:38:33.817Z,"39 km W of Marsa Alam, Egypt",earthquake,,25,0.36,,reviewed,iscgem,iscgem
+1955-11-11T08:31:12.180Z,-32.492,-14.159,15,5.67,mw,,,,,iscgem,iscgem890077,2022-04-26T17:38:32.406Z,"southern Mid-Atlantic Ridge",earthquake,,25,0.66,,reviewed,iscgem,iscgem
+1955-11-10T01:44:06.780Z,-15.458,-173.898,65,6.1,mw,,,,,iscgem,iscgem890071,2022-04-26T17:38:30.667Z,"56 km N of Hihifo, Tonga",earthquake,,5.3,0.2,,reviewed,iscgem,iscgem
+1955-11-02T19:40:03.820Z,36.572,-120.6995,6,4.87,ml,6,320,,1.3,ci,ci3297331,2018-06-04T20:43:44.000Z,"35km SW of Mendota, CA",earthquake,11,31.61,0.264,8,reviewed,ci,ci
+1955-11-02T06:15:17.000Z,39.5,-118.05,,4.6,ml,,,,,ushis,ushis2066,2018-06-04T20:43:44.000Z,"58 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-11-01T23:46:16.840Z,40.584,144.093,15,5.83,mw,,,,,iscgem,iscgem890055,2022-04-26T17:38:29.381Z,"210 km ENE of Miyako, Japan",earthquake,,9.7,0.2,,reviewed,iscgem,iscgem
+1955-10-31T01:05:59.190Z,51.524,-175.311,35,5.86,mw,,,,,iscgem,iscgem890050,2022-04-26T17:38:28.060Z,"99 km ESE of Adak, Alaska",earthquake,,12.4,0.2,,reviewed,iscgem,iscgem
+1955-10-25T16:34:25.960Z,15.968,-95.714,25,5.56,mw,,,,,iscgem,iscgem890030,2022-04-26T17:38:26.705Z,"1 km E of Tapanalá, Mexico",earthquake,,14.3,0.21,,reviewed,iscgem,iscgem
+1955-10-22T22:07:04.310Z,-5.808,148.677,35,5.91,mw,,,,,iscgemsup,iscgemsup890022,2022-05-09T19:34:27.327Z,"",earthquake,,17,0.77,,reviewed,iscgemsup,iscgemsup
+1955-10-21T23:09:49.250Z,-0.49,123.412,35,6.4,mw,,,,,iscgem,iscgem890017,2022-04-26T17:38:25.346Z,"86 km NE of Luwuk, Indonesia",earthquake,,14.1,0.38,,reviewed,iscgem,iscgem
+1955-10-21T04:32:08.870Z,4.18,95.372,35,5.74,mw,,,,,iscgem,iscgem890014,2022-04-26T17:38:23.755Z,"83 km W of Meulaboh, Indonesia",earthquake,,7.9,0.2,,reviewed,iscgem,iscgem
+1955-10-19T09:54:52.530Z,49.312,155.412,50,6.32,mw,,,,,iscgem,iscgem890011,2022-04-26T17:38:18.311Z,"160 km SSW of Severo-Kuril’sk, Russia",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1955-10-19T01:45:32.130Z,40.227,140.26,15,5.75,mw,,,,,iscgem,iscgem890010,2022-04-26T17:38:11.618Z,"9 km W of Takanosu, Japan",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-10-14T08:43:01.810Z,-3.711,-104.117,15,6.1,mw,,,,,iscgem,iscgem890002,2022-04-26T17:38:06.043Z,"central East Pacific Rise",earthquake,,25,0.29,,reviewed,iscgem,iscgem
+1955-10-14T00:56:00.430Z,-16.342,-172.18,15,5.72,mw,,,,,iscgem,iscgem890001,2022-04-26T17:38:00.584Z,"178 km ESE of Hihifo, Tonga",earthquake,,15.2,0.69,,reviewed,iscgem,iscgem
+1955-10-13T21:51:05.470Z,11.778,-86.81,35,5.68,mw,,,,,iscgemsup,iscgemsup890000,2022-05-09T20:02:19.380Z,"32 km W of Masachapa, Nicaragua",earthquake,,18.8,0.82,,reviewed,iscgemsup,iscgemsup
+1955-10-13T17:50:19.970Z,23.71,121.748,15,5.91,mw,,,,,iscgem,iscgem889999,2022-04-26T17:37:59.329Z,"32 km SSE of Hualien City, Taiwan",earthquake,,10.6,0.24,,reviewed,iscgem,iscgem
+1955-10-13T09:26:50.740Z,-9.805,160.799,35,6.34,mw,,,,,iscgem,iscgem889995,2022-04-26T17:37:57.994Z,"101 km ESE of Honiara, Solomon Islands",earthquake,,5,0.2,,reviewed,iscgem,iscgem
+1955-10-10T08:57:50.760Z,-5.062,152.855,20,7.31,mw,,,,,iscgem,iscgem889990,2022-04-26T17:37:52.002Z,"102 km SE of Kokopo, Papua New Guinea",earthquake,,15.2,0.33,,reviewed,iscgem,iscgem
+1955-10-09T23:13:48.480Z,51.295,177.215,35,5.84,mw,,,,,iscgem,iscgem889988,2022-04-26T17:37:46.409Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1955-10-09T17:40:17.660Z,-4.948,153.048,50,6.13,mw,,,,,iscgem,iscgem889987,2022-04-26T17:37:45.071Z,"109 km SE of Kokopo, Papua New Guinea",earthquake,,5,0.2,,reviewed,iscgem,iscgem
+1955-10-05T08:58:03.590Z,53.838,160.609,50,5.95,mw,,,,,iscgem,iscgem889978,2022-04-26T17:37:43.547Z,"157 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,,4.6,0.23,,reviewed,iscgem,iscgem
+1955-10-01T06:29:58.460Z,29.977,101.429,15,5.88,mw,,,,,iscgem,iscgem889967,2022-04-26T17:37:38.026Z,"Western Sichuan, China",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-09-29T05:40:51.000Z,39.22,-118.2,,4.5,ml,,,,,ushis,ushis2061,2018-06-04T20:43:44.000Z,"45 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-09-28T18:09:40.450Z,14.685,-97.403,15,5.88,mw,,,,,iscgem,iscgem889956,2022-04-26T17:37:36.465Z,"132 km SSW of La Barra de Colotepec, Mexico",earthquake,,25,0.28,,reviewed,iscgem,iscgem
+1955-09-28T01:46:39.900Z,26.28,101.671,15,5.89,mw,,,,,iscgem,iscgem889955,2022-04-26T17:37:35.185Z,"29 km S of Dadukou, China",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-09-24T10:21:32.350Z,22.118,121.334,15,6.34,mw,,,,,iscgem,iscgem889948,2022-04-26T17:37:29.189Z,"62 km ENE of Hengchun, Taiwan",earthquake,,3.5,0.49,,reviewed,iscgem,iscgem
+1955-09-24T02:00:47.320Z,-32.187,-177.591,15,5.91,mw,,,,,iscgem,iscgem889947,2022-04-26T17:37:23.652Z,"south of the Kermadec Islands",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-09-23T15:06:20.280Z,26.467,101.78,10,6.7,mw,,,,,iscgem,iscgem889946,2022-04-26T17:37:22.058Z,"11 km SE of Dadukou, China",earthquake,,25,0.32,,reviewed,iscgem,iscgem
+1955-09-22T03:25:15.300Z,24.025,122.353,45,6.61,mw,,,,,iscgem,iscgem889944,2022-04-26T17:37:16.645Z,"76 km E of Hualien City, Taiwan",earthquake,,14.3,0.4,,reviewed,iscgem,iscgem
+1955-09-21T06:39:42.850Z,-17.318,168.276,15,5.98,mw,,,,,iscgem,iscgem889939,2022-04-26T17:37:15.158Z,"46 km N of Port-Vila, Vanuatu",earthquake,,34.2,0.2,,reviewed,iscgem,iscgem
+1955-09-20T13:20:26.110Z,-31.763,-178.011,30,6.31,mw,,,,,iscgem,iscgem889936,2022-04-26T17:37:10.763Z,"Kermadec Islands region",earthquake,,9.8,0.2,,reviewed,iscgem,iscgem
+1955-09-15T12:30:36.820Z,-4.76,134.142,35,6.38,mw,,,,,iscgem,iscgem889921,2022-04-26T17:37:08.896Z,"181 km ENE of Tual, Indonesia",earthquake,,8.3,0.2,,reviewed,iscgem,iscgem
+1955-09-13T02:00:48.780Z,51.841,-176.114,55,6.01,mw,,,,,iscgem,iscgem889917,2022-04-26T17:37:02.923Z,"36 km E of Adak, Alaska",earthquake,,5.2,0.26,,reviewed,iscgem,iscgem
+1955-09-12T06:09:28.960Z,32.418,29.748,63.7,6.23,mw,,,,,iscgem,iscgem889914,2022-04-26T17:37:00.108Z,"129 km NNW of Rosetta, Egypt",earthquake,,6,0.42,,reviewed,iscgem,iscgem
+1955-09-11T17:54:32.430Z,-6.99,155.293,15,6.38,mw,,,,,iscgem,iscgem889911,2022-04-26T17:36:54.768Z,"77 km SSW of Panguna, Papua New Guinea",earthquake,,29,0.2,,reviewed,iscgem,iscgem
+1955-09-09T09:42:04.590Z,-1.995,100.141,40.6,6,mw,,,,,iscgem,iscgem889902,2022-04-26T17:36:49.204Z,"118 km SSW of Padang, Indonesia",earthquake,,5.2,0.23,,reviewed,iscgem,iscgem
+1955-09-08T03:27:23.420Z,-6.96,155.668,50,6.33,mw,,,,,iscgem,iscgem889897,2022-04-26T17:36:43.452Z,"74 km SSE of Panguna, Papua New Guinea",earthquake,,29,0.2,,reviewed,iscgem,iscgem
+1955-09-08T02:03:23.020Z,-59.415,-20.063,15,6.42,mw,,,,,iscgem,iscgem889896,2022-04-26T17:36:38.006Z,"east of the South Sandwich Islands",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-09-07T03:19:23.790Z,-2.251,67.935,15,6.04,mw,,,,,iscgem,iscgem889895,2022-04-26T17:36:32.459Z,"Carlsberg Ridge",earthquake,,7.2,0.27,,reviewed,iscgem,iscgem
+1955-09-05T02:01:18.680Z,37.189,-122.145,15,5.81,mw,,,,,iscgem,iscgem889890,2022-04-26T17:36:30.590Z,"7 km NNW of Boulder Creek, California",earthquake,,3.7,0.4,,reviewed,iscgem,iscgem
+1955-09-04T19:09:36.140Z,42.768,144.813,35,5.77,mw,,,,,iscgem,iscgem889888,2022-04-26T17:36:24.800Z,"42 km ESE of Kushiro, Japan",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1955-09-03T12:36:21.720Z,13.716,-90.857,44.1,6.38,mw,,,,,iscgem,iscgem889884,2022-04-26T17:36:18.969Z,"23 km S of Puerto San José, Guatemala",earthquake,,5.3,0.36,,reviewed,iscgem,iscgem
+1955-09-01T17:33:05.650Z,10.101,-84.517,15,5.81,mw,,,,,iscgem,iscgem889879,2022-04-26T17:36:13.659Z,"5 km WNW of San Ramón, Costa Rica",earthquake,,32.4,0.36,,reviewed,iscgem,iscgem
+1955-08-29T15:34:04.710Z,51.59,-177.706,15,5.82,mw,,,,,iscgem,iscgem889871,2022-04-26T17:36:07.984Z,"80 km WSW of Adak, Alaska",earthquake,,10.6,0.23,,reviewed,iscgem,iscgem
+1955-08-28T20:13:35.470Z,13.671,-90.94,44.8,6.71,mw,,,,,iscgem,iscgem889867,2022-04-26T17:36:02.382Z,"31 km SSW of Puerto San José, Guatemala",earthquake,,6,0.41,,reviewed,iscgem,iscgem
+1955-08-28T13:39:22.580Z,37.327,27.184,15,5.62,mw,,,,,iscgem,iscgem889865,2022-04-26T17:35:56.072Z,"9 km SW of Didim, Turkey",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1955-08-27T07:00:26.000Z,40.383,-124.5,,4.5,ml,,,,,ushis,ushis2057,2018-06-04T20:43:44.000Z,"29 km SW of Ferndale, California",earthquake,,,,,reviewed,ushis,brk
+1955-08-23T15:32:43.780Z,43.331,-127.483,15,6.02,mw,,,,,iscgem,iscgem889852,2022-04-26T17:35:54.308Z,"250 km W of Langlois, Oregon",earthquake,,3.6,0.2,,reviewed,iscgem,iscgem
+1955-08-23T14:09:20.320Z,30.836,71.012,35,5.56,mw,,,,,iscgem,iscgem889851,2022-04-26T17:35:48.251Z,"10 km NE of Kot Sultan, Pakistan",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1955-08-21T17:34:07.360Z,-2.945,137.493,41.3,6.74,mw,,,,,iscgem,iscgem889850,2022-04-26T17:35:41.324Z,"226 km ENE of Nabire, Indonesia",earthquake,,5.4,0.25,,reviewed,iscgem,iscgem
+1955-08-21T16:04:07.020Z,23.98,95.843,15,5.84,mw,,,,,iscgem,iscgem889849,2022-04-26T17:35:39.604Z,"135 km NNW of Mogok, Myanmar",earthquake,,18.6,0.2,,reviewed,iscgem,iscgem
+1955-08-14T16:43:27.470Z,-31.406,-179.284,15,6.15,mw,,,,,iscgem,iscgem889826,2022-04-26T17:35:38.270Z,"Kermadec Islands region",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1955-08-14T12:28:00.000Z,19.313,-155.285,29,5.7,ml,,,,,ushis,ushis2055,2018-06-04T20:43:44.000Z,"15 km SSW of Volcano, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1955-08-11T17:46:19.070Z,31.6213333,-116.3123333,6,4.64,ml,6,339,1.099,0.52,ci,ci3297951,2017-02-07T01:23:59.631Z,"26km ESE of Maneadero, B.C., MX",earthquake,9.86,31.61,0.122,8,reviewed,ci,ci
+1955-08-08T10:35:35.000Z,38.33,-118.67,,5.2,ml,,,,,ushis,ushis2054,2021-05-17T23:02:07.250Z,"21 km S of Hawthorne, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-08-06T08:31:32.690Z,-20.955,-177.666,360.2,6.7,mw,,,,,iscgem,iscgem889811,2022-04-26T17:35:36.594Z,"255 km W of Haveluloto, Tonga",earthquake,,6.1,0.2,,reviewed,iscgem,iscgem
+1955-08-04T06:40:49.510Z,30.675,86.43,15,5.69,mw,,,,,iscgem,iscgem889804,2022-04-26T17:35:35.198Z,"western Xizang",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-07-29T21:53:17.010Z,51.468,159.464,35,5.75,mw,,,,,iscgem,iscgem889795,2022-04-26T17:35:33.766Z,"178 km SSE of Vilyuchinsk, Russia",earthquake,,10.9,0.2,,reviewed,iscgem,iscgem
+1955-07-28T01:59:34.430Z,-40.8,-72.026,15,6.13,mw,,,,,iscgem,iscgem889793,2022-04-26T17:35:32.425Z,"32 km W of Villa La Angostura, Argentina",earthquake,,25,0.27,,reviewed,iscgem,iscgem
+1955-07-27T18:19:14.480Z,56.086,-153.465,25,6.3,mw,,,,,iscgem,iscgem889792,2022-04-26T17:35:31.111Z,"105 km SSE of Akhiok, Alaska",earthquake,,5.2,0.35,,reviewed,iscgem,iscgem
+1955-07-27T01:20:53.420Z,33.766,134.31,15,6.28,mw,,,,,iscgem,iscgem889790,2022-04-26T17:35:29.692Z,"33 km S of Kamojimach?-j?gejima, Japan",earthquake,,3.3,0.49,,reviewed,iscgem,iscgem
+1955-07-26T04:04:23.500Z,56.387,-153.06,15,5.76,mw,,,,,iscgem,iscgem889787,2022-04-26T17:35:28.355Z,"92 km S of Old Harbor, Alaska",earthquake,,5.5,0.2,,reviewed,iscgem,iscgem
+1955-07-24T16:20:07.060Z,23.396,121.737,15,6.07,mw,,,,,iscgem,iscgem889784,2022-04-26T17:35:27.010Z,"65 km SSE of Hualien City, Taiwan",earthquake,,3.5,0.21,,reviewed,iscgem,iscgem
+1955-07-24T11:02:14.020Z,35.71,140.703,56.1,5.9,mw,,,,,iscgem,iscgem889783,2022-04-26T17:35:25.630Z,"4 km E of Asahi, Japan",earthquake,,5,0.2,,reviewed,iscgem,iscgem
+1955-07-23T13:57:08.570Z,9.737,122.313,15,6.09,mw,,,,,iscgem,iscgem889780,2022-04-26T17:35:24.327Z,"10 km W of Sipalay, Philippines",earthquake,,12.7,0.21,,reviewed,iscgem,iscgem
+1955-07-23T12:48:35.560Z,-7.363,128.065,35,6.45,mw,,,,,iscgem,iscgem889778,2022-04-26T17:35:22.950Z,"173 km NE of Lospalos, Timor Leste",earthquake,,5.1,0.57,,reviewed,iscgem,iscgem
+1955-07-20T21:00:47.500Z,0.303,-78.394,15,6,mw,,,,,iscgem,iscgem889774,2022-04-26T17:35:21.520Z,"14 km W of Cotacachi, Ecuador",earthquake,,7.8,0.35,,reviewed,iscgem,iscgem
+1955-07-19T23:52:28.770Z,56.268,-153.304,25,5.97,mw,,,,,iscgem,iscgem889771,2022-04-26T17:35:19.944Z,"92 km SE of Akhiok, Alaska",earthquake,,4,0.2,,reviewed,iscgem,iscgem
+1955-07-19T08:47:41.400Z,39.824,67.949,15,5.71,mw,,,,,iscgem,iscgem889766,2022-04-26T17:35:18.576Z,"34 km SSE of Jizzax, Uzbekistan",earthquake,,25,0.54,,reviewed,iscgem,iscgem
+1955-07-17T21:58:29.190Z,54.175,-168.224,25,5.94,mw,,,,,iscgem,iscgem889757,2022-04-26T17:35:17.221Z,"114 km WNW of Dutch Harbor, Alaska",earthquake,,5.9,0.2,,reviewed,iscgem,iscgem
+1955-07-17T07:54:05.570Z,46.131,153.305,15,5.96,mw,,,,,iscgem,iscgem889754,2022-04-26T17:35:15.677Z,"Kuril Islands",earthquake,,13.9,0.49,,reviewed,iscgem,iscgem
+1955-07-16T07:07:14.500Z,37.617,27.284,15,6.57,mw,,,,,iscgem,iscgem889750,2022-04-26T17:35:14.267Z,"9 km NW of Sar?kemer, Turkey",earthquake,,6,0.2,,reviewed,iscgem,iscgem
+1955-07-14T09:51:40.500Z,8.179,94.171,20,5.93,mw,,,,,iscgem,iscgem889746,2022-04-26T17:35:12.925Z,"283 km NNW of Sabang, Indonesia",earthquake,,3.7,0.33,,reviewed,iscgem,iscgem
+1955-07-12T14:43:57.940Z,6.466,-33.358,15,5.61,mw,,,,,iscgem,iscgem889737,2022-04-26T17:35:11.574Z,"central Mid-Atlantic Ridge",earthquake,,25,0.27,,reviewed,iscgem,iscgem
+1955-07-11T20:21:25.520Z,-1.274,-13.639,15,5.87,mw,,,,,iscgem,iscgem889736,2022-04-26T17:35:09.567Z,"north of Ascension Island",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-07-10T14:20:52.860Z,-21.258,-174.233,15,6.07,mw,,,,,iscgem,iscgem889731,2022-04-26T17:35:08.129Z,"74 km E of ‘Ohonua, Tonga",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1955-07-09T23:53:44.840Z,40.746,22.329,15,5.53,mw,,,,,iscgem,iscgem889728,2022-04-26T17:35:06.717Z,"2 km SSE of Karyótissa, Greece",earthquake,,4.5,0.26,,reviewed,iscgem,iscgem
+1955-07-06T01:54:24.740Z,51.24,157.701,52.1,6.2,mw,,,,,iscgem,iscgem889715,2022-04-26T17:35:05.369Z,"88 km ESE of Ozernovskiy, Russia",earthquake,,5.1,0.23,,reviewed,iscgem,iscgem
+1955-07-04T14:19:52.730Z,51.377,177.339,48,6.07,mw,,,,,iscgem,iscgem889711,2022-04-26T17:35:03.993Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,4.9,0.52,,reviewed,iscgem,iscgem
+1955-07-03T14:26:37.040Z,51.485,177.373,30.6,6.05,mw,,,,,iscgem,iscgem889708,2022-04-26T17:35:02.673Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,4,0.37,,reviewed,iscgem,iscgem
+1955-06-29T04:55:01.310Z,28.927,130.566,45,6.1,mw,,,,,iscgem,iscgem889696,2022-04-26T17:35:01.160Z,"122 km ENE of Naze, Japan",earthquake,,19.8,0.33,,reviewed,iscgem,iscgem
+1955-06-28T04:28:10.700Z,86.633,69.923,15,5.9,mw,,,,,iscgem,iscgem889689,2022-04-26T17:34:59.677Z,"north of Franz Josef Land",earthquake,,25,0.28,,reviewed,iscgem,iscgem
+1955-06-27T10:14:12.650Z,32.294,78.506,15,6.15,mw,,,,,iscgem,iscgem889685,2022-04-26T17:34:58.271Z,"109 km NE of Sar?han, India",earthquake,,8.6,0.2,,reviewed,iscgem,iscgem
+1955-06-23T22:13:33.880Z,44.166,148.878,63.8,5.84,mw,,,,,iscgem,iscgem889678,2022-04-26T17:34:56.629Z,"Kuril Islands",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1955-06-23T11:19:21.890Z,42.087,71.068,15,5.52,mw,,,,,iscgem,iscgem889676,2022-04-26T17:34:55.190Z,"62 km SE of Zhabagly, Kazakhstan",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-06-21T10:51:08.480Z,52.149,161.945,36,5.68,mw,,,,,iscgem,iscgem889670,2022-04-26T17:34:53.783Z,"246 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1955-06-20T12:07:33.230Z,51.511,-179.788,30.4,6.69,mw,,,,,iscgem,iscgem889668,2022-04-26T17:34:52.370Z,"221 km WSW of Adak, Alaska",earthquake,,3.9,0.25,,reviewed,iscgem,iscgem
+1955-06-19T19:25:16.000Z,39,-118.5,,5,ml,,,,,ushis,ushis2041,2018-06-04T20:43:44.000Z,"27 km ENE of Schurz, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-06-19T19:20:00.000Z,38.97,-118.25,,5.2,ml,,,,,ushis,ushis2040,2018-06-04T20:43:44.000Z,"30 km WNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-06-17T08:06:39.620Z,22.473,121.284,30,6.22,mw,,,,,iscgem,iscgem889659,2022-04-26T17:34:50.885Z,"76 km NE of Hengchun, Taiwan",earthquake,,12.3,0.56,,reviewed,iscgem,iscgem
+1955-06-16T12:37:27.610Z,25.432,-112.588,15,5.72,mw,,,,,iscgem,iscgem889656,2022-04-26T17:34:48.802Z,"54 km WNW of Puerto Adolfo Lopez Mateos, Mexico",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-06-15T03:01:10.330Z,-21.002,169.424,15,5.69,mw,,,,,iscgemsup,iscgemsup889650,2022-05-09T20:01:04.688Z,"162 km S of Isangel, Vanuatu",earthquake,,4,0.9,,reviewed,iscgemsup,iscgemsup
+1955-06-15T01:03:59.160Z,39.095,71.517,15,5.47,mw,,,,,iscgem,iscgem889649,2022-04-26T17:34:47.439Z,"15 km S of Karakenja, Tajikistan",earthquake,,21.4,0.2,,reviewed,iscgem,iscgem
+1955-06-14T17:22:02.100Z,36.361,141.857,30,6.08,mw,,,,,iscgem,iscgem889647,2022-04-26T17:34:45.916Z,"109 km ESE of Takahagi, Japan",earthquake,,3.9,0.39,,reviewed,iscgem,iscgem
+1955-06-14T06:11:26.550Z,18.924,-107.085,15,6.45,mw,,,,,iscgem,iscgem889641,2022-04-26T17:34:44.382Z,"208 km SW of La Cruz de Loreto, Mexico",earthquake,,25,0.42,,reviewed,iscgem,iscgem
+1955-06-12T20:30:49.520Z,48.625,155.18,25,6.19,mw,,,,,iscgem,iscgem889634,2022-04-26T17:34:42.994Z,"Kuril Islands",earthquake,,3.9,0.36,,reviewed,iscgem,iscgem
+1955-06-08T12:22:11.000Z,38.88,-118.17,,4.5,ml,,,,,ushis,ushis2039,2018-06-04T20:43:44.000Z,"21 km W of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-06-07T00:48:57.290Z,26.669,101.109,15,6.18,mw,,,,,iscgem,iscgem889619,2022-04-26T17:34:41.677Z,"60 km WNW of Dadukou, China",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-06-05T15:43:12.020Z,39.718,75.482,15,5.68,mw,,,,,iscgem,iscgem889614,2022-04-26T17:34:40.335Z,"51 km WNW of Kashgar, China",earthquake,,8.8,0.2,,reviewed,iscgem,iscgem
+1955-06-05T14:56:16.740Z,36.268,1.403,15,5.58,mw,,,,,iscgem,iscgem889613,2022-04-26T17:34:38.957Z,"12 km NNE of Chlef, Algeria",earthquake,,11.3,0.29,,reviewed,iscgem,iscgem
+1955-06-05T06:11:28.200Z,24.227,121.316,35,6.2,mw,,,,,iscgem,iscgem889611,2022-04-26T17:34:37.621Z,"40 km NW of Hualien City, Taiwan",earthquake,,5.4,0.22,,reviewed,iscgem,iscgem
+1955-06-05T01:53:24.500Z,51.402,-179.757,35,6.09,mw,,,,,iscgem,iscgem889609,2022-04-26T17:34:36.258Z,"222 km WSW of Adak, Alaska",earthquake,,4,0.51,,reviewed,iscgem,iscgem
+1955-06-04T17:22:34.060Z,40.025,142.864,30,6.07,mw,,,,,iscgemsup,iscgemsup889607,2022-05-09T20:00:54.008Z,"89 km ENE of Miyako, Japan",earthquake,,4,0.75,,reviewed,iscgemsup,iscgemsup
+1955-06-04T16:51:24.300Z,40.107,143.21,36.5,6.16,mw,,,,,iscgem,iscgem889606,2022-04-26T17:34:34.741Z,"120 km ENE of Miyako, Japan",earthquake,,4.5,0.34,,reviewed,iscgem,iscgem
+1955-06-02T23:34:38.560Z,40.274,25.653,15,5.59,mw,,,,,iscgem,iscgem889598,2022-04-26T17:34:33.366Z,"23 km WNW of Gökçeada, Turkey",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1955-06-02T02:02:18.260Z,51.499,179.979,35,6.07,mw,,,,,iscgem,iscgem889596,2022-04-26T17:34:32.004Z,"237 km WSW of Adak, Alaska",earthquake,,3.7,0.51,,reviewed,iscgem,iscgem
+1955-06-02T00:19:02.430Z,51.415,-179.838,20,6.69,mw,,,,,iscgem,iscgem889594,2022-04-26T17:34:30.630Z,"227 km WSW of Adak, Alaska",earthquake,,3.7,0.3,,reviewed,iscgem,iscgem
+1955-05-31T17:57:14.650Z,-0.638,-91.785,15,5.92,mw,,,,,iscgem,iscgem889590,2022-04-26T17:34:29.297Z,"97 km WNW of Puerto Villamil, Ecuador",earthquake,,18.4,0.36,,reviewed,iscgem,iscgem
+1955-05-30T23:27:00.170Z,-3.185,136.848,55,6.29,mw,,,,,iscgem,iscgem889585,2022-04-26T17:34:27.967Z,"Papua, Indonesia",earthquake,,5.3,0.2,,reviewed,iscgem,iscgem
+1955-05-30T21:28:26.000Z,39.42,-118,,4.5,ml,,,,,ushis,ushis2035,2018-06-04T20:43:44.000Z,"61 km N of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-05-30T12:31:44.460Z,24.319,142.412,558.9,7.2,mw,,,,,iscgem,iscgem889583,2022-04-26T17:34:26.487Z,"Volcano Islands, Japan region",earthquake,,6.6,0.2,,reviewed,iscgem,iscgem
+1955-05-29T21:03:12.500Z,55.526,-154.484,15,5.73,mw,,,,,iscgemsup,iscgemsup889580,2022-05-09T20:00:45.452Z,"159 km S of Akhiok, Alaska",earthquake,,6.1,0.94,,reviewed,iscgemsup,iscgemsup
+1955-05-29T15:34:09.510Z,-10.158,110.956,25,6.4,mw,,,,,iscgem,iscgem889579,2022-04-26T17:34:24.947Z,"244 km SSW of Trenggalek, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-05-29T13:31:29.470Z,55.697,-154.35,15,5.88,mw,,,,,iscgem,iscgem889578,2022-04-26T17:34:23.545Z,"139 km S of Akhiok, Alaska",earthquake,,6.1,0.2,,reviewed,iscgem,iscgem
+1955-05-29T11:06:02.150Z,50.008,157.011,45.5,5.82,mw,,,,,iscgem,iscgem889577,2022-04-26T17:34:21.883Z,"97 km SE of Severo-Kuril’sk, Russia",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1955-05-28T19:44:20.030Z,35.538,-118.2473333,6,4.51,ml,12,117,,0.46,ci,ci3297817,2018-06-04T20:43:44.000Z,"22km ESE of Lake Isabella, CA",earthquake,0.9,31.61,0.055,11,reviewed,ci,ci
+1955-05-26T16:23:19.690Z,-9.889,160.704,40,6.33,mw,,,,,iscgem,iscgem889566,2022-04-26T17:34:20.592Z,"96 km ESE of Honiara, Solomon Islands",earthquake,,8.3,0.2,,reviewed,iscgem,iscgem
+1955-05-25T18:20:57.380Z,48.061,157.265,15,5.67,mw,,,,,iscgem,iscgem889562,2022-04-26T17:34:19.047Z,"east of the Kuril Islands",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-05-25T03:08:58.410Z,13.158,-92.159,15,5.56,mw,,,,,iscgem,iscgem889559,2022-04-26T17:34:17.488Z,"128 km SSW of Champerico, Guatemala",earthquake,,25,0.63,,reviewed,iscgem,iscgem
+1955-05-23T17:41:48.740Z,-18.055,168.915,25,5.86,mw,,,,,iscgem,iscgem889554,2022-04-26T17:34:15.968Z,"72 km ESE of Port-Vila, Vanuatu",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-05-22T04:57:35.590Z,47.457,11.45,15,5.19,mw,,,,,iscgemsup,iscgemsup889550,2022-05-09T20:00:37.975Z,"Austria",earthquake,,5,0.45,,reviewed,iscgemsup,iscgemsup
+1955-05-21T03:30:05.850Z,28.186,140.958,15,6.01,mw,,,,,iscgem,iscgem889544,2022-04-26T17:34:14.398Z,"Bonin Islands, Japan region",earthquake,,10.1,0.44,,reviewed,iscgem,iscgem
+1955-05-18T05:26:07.080Z,20.67,122.188,25,5.83,mw,,,,,iscgem,iscgem889539,2022-04-26T17:34:12.864Z,"33 km NE of Basco, Philippines",earthquake,,24.1,0.69,,reviewed,iscgem,iscgem
+1955-05-17T14:49:55.740Z,6.828,93.869,25.3,7.05,mw,,,,,iscgem,iscgem889535,2022-04-26T17:34:11.222Z,"190 km WNW of Sabang, Indonesia",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1955-05-14T06:04:17.130Z,27.664,139.925,487,6.68,mw,,,,,iscgem,iscgem889525,2022-04-26T17:34:05.522Z,"Bonin Islands, Japan region",earthquake,,6.5,0.59,,reviewed,iscgem,iscgem
+1955-05-13T03:30:00.250Z,19.242,-64.372,15,5.84,mw,,,,,iscgem,iscgem889520,2022-04-26T17:34:03.944Z,"110 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,,23.6,0.33,,reviewed,iscgem,iscgem
+1955-05-11T15:48:58.500Z,35.202,141.297,25,5.81,mw,,,,,iscgem,iscgem889514,2022-04-26T17:33:58.108Z,"72 km SE of Hasaki, Japan",earthquake,,14.5,0.29,,reviewed,iscgem,iscgem
+1955-05-11T11:04:04.380Z,-0.23,-77.878,15,6.48,mw,,,,,iscgemsup,iscgemsup889513,2022-05-09T20:00:29.861Z,"42 km SE of Cayambe, Ecuador",earthquake,,5.8,1.03,,reviewed,iscgemsup,iscgemsup
+1955-05-08T21:39:03.160Z,36.469,1.52,15,5.35,mw,,,,,iscgemsup,iscgemsup889508,2022-05-09T20:00:27.416Z,"19 km E of Sidi Akkacha, Algeria",earthquake,,11.3,0.2,,reviewed,iscgemsup,iscgemsup
+1955-05-08T10:38:31.000Z,38.933,-118.117,,4.5,ml,,,,,ushis,ushis2031,2018-06-04T20:43:44.000Z,"18 km WNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-05-07T11:50:39.000Z,38.933,-122.867,,4.6,ml,,,,,ushis,ushis2030,2018-06-04T20:43:44.000Z,"5 km SSW of Kelseyville, California",earthquake,,,,,reviewed,ushis,brk
+1955-05-06T11:39:58.550Z,35.284,-36.186,18.7,5.6,mw,,,,,iscgem,iscgem889498,2022-04-26T17:33:52.525Z,"northern Mid-Atlantic Ridge",earthquake,,3.5,0.29,,reviewed,iscgem,iscgem
+1955-05-06T00:04:36.760Z,40.09,143.437,20,6.05,mw,,,,,iscgem,iscgem889497,2022-04-26T17:33:47.128Z,"137 km ENE of Miyako, Japan",earthquake,,14.5,0.64,,reviewed,iscgem,iscgem
+1955-05-04T00:17:00.560Z,27.051,96.927,15,5.77,mw,,,,,iscgem,iscgem889493,2022-04-26T17:33:45.942Z,"94 km N of Sarupathar, India",earthquake,,9,0.38,,reviewed,iscgem,iscgem
+1955-05-03T17:07:37.870Z,39.714,143.444,25,6.06,mw,,,,,iscgem,iscgem889492,2022-04-26T17:33:44.497Z,"129 km E of Miyako, Japan",earthquake,,12.9,0.51,,reviewed,iscgem,iscgem
+1955-05-01T13:58:45.030Z,39.788,143.843,10,6.23,mw,,,,,iscgem,iscgem889486,2022-04-26T17:33:43.376Z,"163 km E of Miyako, Japan",earthquake,,6.1,0.38,,reviewed,iscgem,iscgem
+1955-05-01T09:55:19.860Z,39.729,143.741,10,6.56,mw,,,,,iscgem,iscgem889485,2022-04-26T17:33:42.291Z,"154 km E of Miyako, Japan",earthquake,,12.9,0.28,,reviewed,iscgem,iscgem
+1955-04-30T14:05:10.940Z,39.733,143.598,15,5.98,mw,,,,,iscgem,iscgem889484,2022-04-26T17:33:41.172Z,"142 km E of Miyako, Japan",earthquake,,12.9,0.36,,reviewed,iscgem,iscgem
+1955-04-30T01:43:58.060Z,12.071,-86.474,15,6.05,mw,,,,,iscgem,iscgem889481,2022-04-26T17:33:40.006Z,"10 km NNE of Villa El Carmen, Nicaragua",earthquake,,41.9,0.2,,reviewed,iscgem,iscgem
+1955-04-28T19:05:08.040Z,51.41,-178.236,35,6.42,mw,,,,,iscgem,iscgem889477,2022-04-26T17:33:38.860Z,"122 km WSW of Adak, Alaska",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1955-04-28T00:35:50.430Z,-9.242,-108.456,15,5.69,mw,,,,,iscgem,iscgem889475,2022-04-26T17:33:37.706Z,"central East Pacific Rise",earthquake,,2.1,0.66,,reviewed,iscgem,iscgem
+1955-04-26T03:03:38.100Z,12.984,-89.439,50,6.06,mw,,,,,iscgem,iscgem889470,2022-04-26T17:33:36.542Z,"57 km SSW of La Libertad, El Salvador",earthquake,,4.9,0.57,,reviewed,iscgem,iscgem
+1955-04-25T10:43:07.420Z,32.4658333,-114.989,6,4.89,ml,9,320,1.437,0.43,ci,ci3297793,2016-01-28T18:13:54.000Z,"8km SW of Hermosillo, B.C., MX",earthquake,8.67,31.61,0.211,11,reviewed,ci,ci
+1955-04-24T12:59:15.020Z,44.289,83.805,15,6.34,mw,,,,,iscgem,iscgem889461,2022-04-26T17:33:35.119Z,"northern Xinjiang, China",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-04-23T18:28:51.460Z,-24.795,-113.148,15,6.15,mw,,,,,iscgem,iscgem889459,2022-04-26T17:33:33.838Z,"",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-04-22T10:02:25.840Z,34.375,23.945,15,5.47,mw,,,,,iscgem,iscgem889454,2022-04-26T17:33:32.637Z,"52 km SSW of Kastrí, Greece",earthquake,,12.6,0.45,,reviewed,iscgem,iscgem
+1955-04-21T07:18:22.780Z,39.353,23.198,15,5.91,mw,,,,,iscgem,iscgem889452,2022-04-26T17:33:31.566Z,"12 km ENE of Áno Lekhónia, Greece",earthquake,,6,0.23,,reviewed,iscgem,iscgem
+1955-04-20T05:48:35.980Z,-30.664,-72.071,15,6.26,mw,,,,,iscgem,iscgem889447,2022-04-26T17:33:30.433Z,"83 km W of Ovalle, Chile",earthquake,,13.4,0.38,,reviewed,iscgem,iscgem
+1955-04-20T02:12:34.830Z,-30.4,-71.933,25,6.13,mw,,,,,iscgem,iscgem889446,2022-04-26T17:33:29.088Z,"73 km WNW of Ovalle, Chile",earthquake,,13.4,0.35,,reviewed,iscgem,iscgem
+1955-04-19T20:24:10.880Z,-30.128,-71.935,15,6.95,mw,,,,,iscgem,iscgem889444,2022-04-26T17:33:27.903Z,"60 km WSW of Coquimbo, Chile",earthquake,,19.5,0.32,,reviewed,iscgem,iscgem
+1955-04-19T16:47:23.800Z,39.366,23.053,15,6.16,mw,,,,,iscgem,iscgem889443,2022-04-26T17:33:26.709Z,"4 km NNE of Káto Lekhónia, Greece",earthquake,,6,0.28,,reviewed,iscgem,iscgem
+1955-04-17T18:35:29.730Z,51.957,159.976,28.5,6.53,mw,,,,,iscgem,iscgem889433,2022-04-26T17:33:25.461Z,"152 km SE of Vilyuchinsk, Russia",earthquake,,4.5,0.27,,reviewed,iscgem,iscgem
+1955-04-15T04:13:30.200Z,39.897,74.545,20,6.92,mw,,,,,iscgem,iscgem889426,2022-04-26T17:33:24.150Z,"132 km WNW of Kashgar, China",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1955-04-15T03:40:56.820Z,39.831,74.734,20,6.94,mw,,,,,iscgem,iscgem889425,2022-04-26T17:33:18.663Z,"114 km WNW of Kashgar, China",earthquake,,25,0.32,,reviewed,iscgem,iscgem
+1955-04-14T01:29:04.330Z,29.957,101.759,10,7.09,mw,,,,,iscgem,iscgem889422,2022-04-26T17:33:12.800Z,"19 km WSW of Kangding, China",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1955-04-13T20:45:51.400Z,37.215,22.439,25,5.61,mw,,,,,iscgem,iscgem889420,2022-04-26T17:33:11.605Z,"10 km SSW of Karyés, Greece",earthquake,,5,0.45,,reviewed,iscgem,iscgem
+1955-04-10T17:38:17.190Z,7.826,124.074,15,6.29,mw,,,,,iscgem,iscgem889411,2022-04-26T17:33:10.210Z,"3 km W of Ganassi, Philippines",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-04-06T19:48:49.220Z,-33.771,86.913,15,6.05,mw,,,,,iscgem,iscgem889402,2022-04-26T17:33:08.827Z,"Broken Ridge",earthquake,,25,0.48,,reviewed,iscgem,iscgem
+1955-04-06T12:50:58.390Z,-17.304,66.405,15,6.1,mw,,,,,iscgemsup,iscgemsup889401,2022-05-09T20:00:09.711Z,"Mauritius - Reunion region",earthquake,,3.7,0.74,,reviewed,iscgemsup,iscgemsup
+1955-04-05T16:16:37.520Z,25.559,-109.851,15,6.01,mw,,,,,iscgemsup,iscgemsup889399,2022-05-09T20:00:08.503Z,"58 km WSW of Campo Pesquero el Colorado, Mexico",earthquake,,25,0.74,,reviewed,iscgemsup,iscgemsup
+1955-04-05T15:09:27.440Z,25.471,-109.662,15,6.53,mw,,,,,iscgem,iscgem889398,2022-04-26T17:33:03.717Z,"47 km SW of Campo Pesquero el Colorado, Mexico",earthquake,,3.5,0.24,,reviewed,iscgem,iscgem
+1955-04-04T19:24:09.070Z,12.74,-86.873,15,6.24,mw,,,,,iscgem,iscgem889392,2022-04-26T17:33:02.626Z,"24 km N of Telica, Nicaragua",earthquake,,50.3,0.2,,reviewed,iscgem,iscgem
+1955-04-04T11:11:27.380Z,21.779,121,25,6.5,mw,,,,,iscgem,iscgem889391,2022-04-26T17:33:01.423Z,"36 km SE of Hengchun, Taiwan",earthquake,,4,0.32,,reviewed,iscgem,iscgem
+1955-04-01T18:41:31.130Z,64.048,-21.479,15,5.55,mw,,,,,iscgem,iscgem889388,2022-04-26T17:33:00.117Z,"15 km WNW of Hveragerði, Iceland",earthquake,,25,0.4,,reviewed,iscgem,iscgem
+1955-04-01T14:24:25.500Z,19.407,-155.305,10,5.2,ml,,,,,ushis,ushis2026,2018-06-04T20:43:44.000Z,"8 km WSW of Volcano, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1955-03-31T20:52:49.010Z,7.674,124.081,35,6.34,mw,,,,,iscgem,iscgem889385,2022-04-26T17:32:58.915Z,"7 km W of Marogong, Philippines",earthquake,,25,0.39,,reviewed,iscgem,iscgem
+1955-03-31T18:17:13.290Z,7.658,123.157,35,7.37,mw,,,,,iscgem,iscgem889384,2022-04-26T17:32:53.565Z,"Mindanao, Philippines",earthquake,,4.8,0.21,,reviewed,iscgem,iscgem
+1955-03-28T14:45:52.040Z,37.688,21.283,15,5.59,mw,,,,,iscgem,iscgem889373,2022-04-26T17:32:52.185Z,"10 km SSW of Kardamás, Greece",earthquake,,9.9,0.27,,reviewed,iscgem,iscgem
+1955-03-28T09:12:18.700Z,29.093,130.109,51,6.32,mw,,,,,iscgem,iscgem889372,2022-04-26T17:32:46.365Z,"Ryukyu Islands, Japan",earthquake,,5.2,0.21,,reviewed,iscgem,iscgem
+1955-03-28T00:59:11.720Z,52.92,-35.138,15,5.48,mw,,,,,iscgem,iscgem889371,2022-04-26T17:32:45.259Z,"Reykjanes Ridge",earthquake,,6,0.43,,reviewed,iscgem,iscgem
+1955-03-27T14:38:48.150Z,29.671,90.166,15,5.93,mw,,,,,iscgem,iscgem889367,2022-04-26T17:32:44.079Z,"62 km WSW of Dêqên, China",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1955-03-23T17:16:23.010Z,-56.579,148.327,15,6.09,mw,,,,,iscgem,iscgem889355,2022-04-26T17:32:42.978Z,"west of Macquarie Island",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1955-03-23T04:54:32.420Z,-9.595,91.749,15,5.81,mw,,,,,iscgem,iscgem889353,2022-04-26T17:32:41.746Z,"South Indian Ocean",earthquake,,25,0.69,,reviewed,iscgem,iscgem
+1955-03-22T14:05:09.420Z,-9.101,91.653,20,7,mw,,,,,iscgem,iscgem889351,2022-04-26T17:32:40.617Z,"South Indian Ocean",earthquake,,4.5,0.3,,reviewed,iscgem,iscgem
+1955-03-22T06:14:13.210Z,25.828,98.337,60,5.99,mw,,,,,iscgem,iscgem889348,2022-04-26T17:32:39.511Z,"106 km ENE of Myitkyina, Myanmar",earthquake,,4.8,0.31,,reviewed,iscgem,iscgem
+1955-03-22T02:33:15.660Z,44.982,-28.074,15,5.64,mw,,,,,iscgem,iscgem889346,2022-04-26T17:32:38.443Z,"northern Mid-Atlantic Ridge",earthquake,,6.1,0.48,,reviewed,iscgem,iscgem
+1955-03-18T00:06:52.540Z,54.252,160.884,59.2,7.16,mw,,,,,iscgem,iscgem889331,2022-04-26T17:32:37.230Z,"154 km ESE of Mil’kovo, Russia",earthquake,,5.2,0.42,,reviewed,iscgem,iscgem
+1955-03-14T18:23:47.000Z,39.42,-118.25,,4.7,ml,,,,,ushis,ushis2023,2018-06-04T20:43:44.000Z,"40 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-03-13T08:41:04.000Z,39.57,-118.05,,4.6,ml,,,,,ushis,ushis2021,2018-06-04T20:43:44.000Z,"59 km ENE of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-03-12T16:42:21.360Z,34.6,73.194,15,5.53,mw,,,,,iscgem,iscgem889310,2022-04-26T17:32:33.792Z,"17 km ESE of Battagram, Pakistan",earthquake,,10.4,0.35,,reviewed,iscgem,iscgem
+1955-03-11T21:43:43.050Z,51.163,158.208,62,5.66,mw,,,,,iscgem,iscgem889306,2022-04-26T17:32:32.638Z,"124 km ESE of Ozernovskiy, Russia",earthquake,,5.4,0.65,,reviewed,iscgem,iscgem
+1955-03-11T14:23:16.000Z,39.3,-118.1,,4.5,ml,,,,,ushis,ushis2020,2018-06-04T20:43:44.000Z,"50 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-03-10T21:10:16.460Z,-15.135,-173.068,15,6.05,mw,,,,,iscgem,iscgem889302,2022-04-26T17:32:31.515Z,"119 km NE of Hihifo, Tonga",earthquake,,19.9,0.4,,reviewed,iscgem,iscgem
+1955-03-09T09:19:11.270Z,24.065,122.481,15,5.8,mw,,,,,iscgem,iscgem889298,2022-04-26T17:32:30.286Z,"68 km SW of Yonakuni, Japan",earthquake,,14.3,0.22,,reviewed,iscgem,iscgem
+1955-03-09T02:26:28.530Z,-31.178,-13.279,15,6.18,mw,,,,,iscgem,iscgem889296,2022-04-26T17:32:28.968Z,"southern Mid-Atlantic Ridge",earthquake,,3.9,0.4,,reviewed,iscgem,iscgem
+1955-03-08T20:05:17.000Z,39.2,-118.55,,4.5,ml,,,,,ushis,ushis2019,2018-06-04T20:43:44.000Z,"27 km SSE of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-03-08T08:21:26.100Z,19.335,-154.997,,5.4,ml,,,,,ushis,ushis2018,2018-06-04T20:43:44.000Z,"17 km SSW of Leilani Estates, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1955-03-06T20:55:28.690Z,38.096,72.784,124.9,6.33,mw,,,,,iscgem,iscgem889289,2022-04-26T17:32:23.605Z,"104 km W of Murghob, Tajikistan",earthquake,,6.4,0.34,,reviewed,iscgem,iscgem
+1955-03-06T13:33:36.360Z,9.649,122.576,15,6.31,mw,,,,,iscgem,iscgem889288,2022-04-26T17:32:22.502Z,"11 km E of Bacuyangan, Philippines",earthquake,,12.7,0.21,,reviewed,iscgem,iscgem
+1955-03-06T10:55:33.200Z,9.574,122.347,15,6.07,mw,,,,,iscgem,iscgem889287,2022-04-26T17:32:21.419Z,"14 km SW of Cayhagan, Philippines",earthquake,,12.7,0.25,,reviewed,iscgem,iscgem
+1955-03-06T06:18:09.840Z,-1.812,100.454,38.3,6.09,mw,,,,,iscgem,iscgem889286,2022-04-26T17:32:20.189Z,"southern Sumatra, Indonesia",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1955-03-03T20:47:26.620Z,71.527,-3.961,15,5.31,mw,,,,,iscgemsup,iscgemsup889279,2022-05-09T19:59:48.181Z,"183 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,2.9,0.33,,reviewed,iscgemsup,iscgemsup
+1955-03-02T15:59:00.910Z,35.902,-120.9985,6,4.77,ml,11,278,,0.72,ci,ci3297743,2018-06-04T20:43:44.000Z,"22km NNW of Lake Nacimiento, CA",earthquake,5.98,31.61,0.219,12,reviewed,ci,ci
+1955-03-01T14:41:43.570Z,30.6,141.95,15,5.81,mw,,,,,iscgem,iscgem889270,2022-04-26T17:32:14.285Z,"",earthquake,,11.1,0.2,,reviewed,iscgem,iscgem
+1955-03-01T04:43:02.130Z,65.27,-133.163,10,6.35,mw,,,,,iscgem,iscgem889265,2022-04-26T17:32:12.873Z,"253 km SSE of Fort McPherson, Canada",earthquake,,25,0.39,,reviewed,iscgem,iscgem
+1955-02-28T20:42:36.120Z,-11.417,66.266,15,6.08,mw,,,,,iscgem,iscgem889261,2022-04-26T17:32:07.499Z,"Mid-Indian Ridge",earthquake,,8.6,0.29,,reviewed,iscgem,iscgem
+1955-02-27T20:43:27.880Z,-28.336,-175.599,15,7.52,mw,,,,,iscgem,iscgem889257,2022-04-26T17:32:06.387Z,"Kermadec Islands region",earthquake,,3.7,0.35,,reviewed,iscgem,iscgem
+1955-02-23T18:31:48.340Z,-34.455,54.084,15,6.07,mw,,,,,iscgem,iscgem889245,2022-04-26T17:32:05.015Z,"Southwest Indian Ridge",earthquake,,25,0.69,,reviewed,iscgem,iscgem
+1955-02-21T23:14:48.610Z,40.746,-29.305,15,5.26,mw,,,,,iscgemsup,iscgemsup889238,2022-05-09T19:59:36.144Z,"211 km NE of Santa Cruz das Flores, Portugal",earthquake,,2.6,0.2,,reviewed,iscgemsup,iscgemsup
+1955-02-19T23:50:07.000Z,39.3,-117.8,,4.8,ml,,,,,ushis,ushis2016,2018-06-04T20:43:44.000Z,"49 km NNE of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-02-18T22:48:39.000Z,30.387,67.1,15,5.96,mw,,,,,iscgem,iscgem889228,2022-04-26T17:31:59.606Z,"23 km NNE of Kot Malik Barkhurdar, Pakistan",earthquake,,25,0.25,,reviewed,iscgem,iscgem
+1955-02-18T15:27:28.380Z,32.0695,-116.1041667,6,4.53,ml,5,339,0.7756,0.18,ci,ci3297733,2017-02-07T01:31:37.303Z,"54km ENE of Ensenada, B.C., MX",earthquake,6.19,31.61,0.069,9,reviewed,ci,ci
+1955-02-15T06:21:28.600Z,-13.754,166.837,65,6.12,mw,,,,,iscgem,iscgem889219,2022-04-26T17:31:53.220Z,"78 km W of Sola, Vanuatu",earthquake,,25,0.26,,reviewed,iscgem,iscgem
+1955-02-15T06:20:22.110Z,-13.423,166.823,65,6.16,mw,,,,,iscgem,iscgem16968952,2022-04-26T16:04:30.463Z,"93 km WNW of Sola, Vanuatu",earthquake,,25,0.43,,reviewed,iscgem,iscgem
+1955-02-14T16:53:22.890Z,3.459,126.864,35,6.3,mw,,,,,iscgem,iscgem889217,2022-04-26T17:31:46.759Z,"229 km NNW of Tobelo, Indonesia",earthquake,,22.4,0.29,,reviewed,iscgem,iscgem
+1955-02-11T16:12:32.000Z,39.47,-118.1,,4.7,ml,,,,,ushis,ushis2014,2018-06-04T20:43:44.000Z,"53 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-02-10T00:03:26.170Z,50.213,156.405,59.3,5.92,mw,,,,,iscgem,iscgem889205,2022-04-26T17:31:45.618Z,"55 km SSE of Severo-Kuril’sk, Russia",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1955-02-06T14:51:59.130Z,40.044,78.266,15,5.33,mw,,,,,iscgemsup,iscgemsup889192,2022-05-09T19:59:27.024Z,"188 km WSW of Aykol, China",earthquake,,8.2,0.2,,reviewed,iscgemsup,iscgemsup
+1955-02-06T02:27:56.520Z,70.758,-14.183,15,5.86,mw,,,,,iscgem,iscgem889190,2022-04-26T17:31:43.311Z,"201 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,25,0.27,,reviewed,iscgem,iscgem
+1955-02-05T20:41:54.270Z,46.305,152.898,15,6.23,mw,,,,,iscgem,iscgem889187,2022-04-26T17:31:41.441Z,"",earthquake,,18.1,0.35,,reviewed,iscgem,iscgem
+1955-02-04T07:21:53.730Z,-17.091,66.715,15,6.26,mw,,,,,iscgem,iscgem889183,2022-04-26T17:31:35.852Z,"Mauritius - Reunion region",earthquake,,3.4,0.2,,reviewed,iscgem,iscgem
+1955-02-01T19:16:13.150Z,41.963,142.843,55,6.03,mw,,,,,iscgem,iscgem889174,2022-04-26T17:31:34.308Z,"56 km SE of Shizunai-furukawach?, Japan",earthquake,,5.3,0.24,,reviewed,iscgem,iscgem
+1955-01-31T16:02:13.820Z,46.215,153.17,25,6.31,mw,,,,,iscgem,iscgem889172,2022-04-26T17:31:32.769Z,"Kuril Islands",earthquake,,4.5,0.2,,reviewed,iscgem,iscgem
+1955-01-31T05:03:06.600Z,-12.524,-57.291,15,6.34,mw,,,,,iscgem,iscgem889170,2022-04-26T17:31:30.966Z,"207 km WSW of Sinop, Brazil",earthquake,,3.5,0.2,,reviewed,iscgem,iscgem
+1955-01-29T17:03:42.800Z,51.368,159.469,38.1,6.01,mw,,,,,iscgem,iscgem889166,2022-04-26T17:31:25.146Z,"188 km SSE of Vilyuchinsk, Russia",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1955-01-28T17:02:42.850Z,33.136,82.579,35,6.47,mw,,,,,iscgem,iscgem889164,2022-04-26T17:31:18.875Z,"western Xizang",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1955-01-25T23:26:46.000Z,39,-118,,4.7,ml,,,,,ushis,ushis2013,2018-06-04T20:43:44.000Z,"16 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-01-25T14:50:10.920Z,80.633,-1.308,15,6.03,mw,,,,,iscgemsup,iscgemsup889157,2022-05-09T19:59:17.275Z,"north of Svalbard",earthquake,,25,0.81,,reviewed,iscgemsup,iscgemsup
+1955-01-20T03:48:52.770Z,15.112,-104.609,15,6.01,mw,,,,,iscgem,iscgem889142,2022-04-26T17:31:12.907Z,"off the coast of Michoacan, Mexico",earthquake,,25,0.32,,reviewed,iscgem,iscgem
+1955-01-19T02:10:10.000Z,39.35,-118.25,,4.6,ml,,,,,ushis,ushis2010,2018-06-04T20:43:44.000Z,"40 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-01-13T02:35:51.810Z,53.031,-167.613,40,6.45,mw,,,,,iscgem,iscgem889118,2022-04-26T17:31:06.836Z,"84 km E of Nikolski, Alaska",earthquake,,5.1,0.44,,reviewed,iscgem,iscgem
+1955-01-13T02:03:48.850Z,53.141,-167.701,17.6,6.82,mw,,,,,iscgem,iscgem889117,2022-04-26T17:31:00.965Z,"81 km ENE of Nikolski, Alaska",earthquake,,3.7,0.28,,reviewed,iscgem,iscgem
+1955-01-11T10:21:40.000Z,39,-118,,4.7,ml,,,,,ushis,ushis2006,2018-06-04T20:43:44.000Z,"16 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-01-09T09:10:50.000Z,39,-118,,5,ml,,,,,ushis,ushis2005,2018-06-04T20:43:44.000Z,"16 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1955-01-08T07:53:04.170Z,39.107,22.185,15,5.58,mw,,,,,iscgem,iscgem889093,2022-04-26T17:30:55.846Z,"7 km W of Omvriakí, Greece",earthquake,,5.6,0.2,,reviewed,iscgem,iscgem
+1955-01-08T07:33:44.260Z,-11.8,166.353,62.7,6.57,mw,,,,,iscgem,iscgem889092,2022-04-26T17:30:50.717Z,"133 km SSE of Lata, Solomon Islands",earthquake,,5.3,0.2,,reviewed,iscgem,iscgem
+1955-01-07T09:44:31.210Z,-16.773,77.531,15,6.01,mw,,,,,iscgem,iscgem889091,2022-04-26T17:30:44.841Z,"South Indian Ocean",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1955-01-06T02:22:45.310Z,-16.171,167.585,35,6.2,mw,,,,,iscgem,iscgem889086,2022-04-26T17:30:39.285Z,"19 km ESE of Lakatoro, Vanuatu",earthquake,,16.4,0.2,,reviewed,iscgem,iscgem
+1955-01-05T23:42:10.770Z,-16.113,167.768,15,6.5,mw,,,,,iscgem,iscgem889085,2022-04-26T17:30:37.589Z,"37 km E of Lakatoro, Vanuatu",earthquake,,18.6,0.2,,reviewed,iscgem,iscgem
+1955-01-05T17:48:40.710Z,-16.395,167.621,15,6.63,mw,,,,,iscgem,iscgem889084,2022-04-26T17:30:31.861Z,"39 km SE of Lakatoro, Vanuatu",earthquake,,10.5,0.23,,reviewed,iscgem,iscgem
+1955-01-05T15:28:26.510Z,54.518,161.913,35,5.77,mw,,,,,iscgem,iscgem889082,2022-04-26T17:30:30.054Z,"189 km SE of Atlasovo, Russia",earthquake,,4.7,0.27,,reviewed,iscgem,iscgem
+1955-01-05T00:50:21.640Z,-50.075,162.851,15,7,mw,,,,,iscgem,iscgem889080,2022-04-26T17:30:24.471Z,"Auckland Islands, New Zealand region",earthquake,,4.5,0.21,,reviewed,iscgem,iscgem
+1955-01-03T18:41:53.610Z,-15.231,-75.693,25,6.06,mw,,,,,iscgem,iscgem889077,2022-04-26T17:30:18.006Z,"near the coast of central Peru",earthquake,,3.9,0.36,,reviewed,iscgem,iscgem
+1955-01-03T01:07:07.240Z,39.176,22.154,15,5.55,mw,,,,,iscgem,iscgem889076,2022-04-26T17:30:11.362Z,"5 km ESE of Anávra, Greece",earthquake,,5.6,0.33,,reviewed,iscgem,iscgem
+1955-01-01T12:13:54.000Z,39,-118,,5.1,ml,,,,,ushis,ushis2003,2018-06-04T20:43:44.000Z,"16 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-30T11:32:27.700Z,52.286,-168.682,36.9,5.87,mw,,,,,iscgem,iscgem891401,2022-04-26T17:48:53.599Z,"73 km S of Nikolski, Alaska",earthquake,,4.5,0.34,,reviewed,iscgem,iscgem
+1954-12-30T11:05:59.470Z,36.127,21.892,15,5.64,mw,,,,,iscgem,iscgem891400,2022-04-26T17:48:52.051Z,"74 km S of Koróni, Greece",earthquake,,10.7,0.34,,reviewed,iscgem,iscgem
+1954-12-30T09:16:13.000Z,40.783,-123.867,,4.7,ml,,,,,ushis,ushis2001,2018-06-04T20:43:44.000Z,"14 km SE of Blue Lake, California",earthquake,,,,,reviewed,ushis,brk
+1954-12-30T02:07:24.940Z,40.543,22.757,15,5.13,mw,,,,,iscgemsup,iscgemsup891397,2022-05-09T20:08:53.806Z,"9 km SSE of Chalástra, Greece",earthquake,,4.1,0.3,,reviewed,iscgemsup,iscgemsup
+1954-12-28T01:00:46.640Z,-4.592,152.986,35,6.35,mw,,,,,iscgem,iscgem891387,2022-04-26T17:48:50.867Z,"84 km ESE of Kokopo, Papua New Guinea",earthquake,,18.7,0.2,,reviewed,iscgem,iscgem
+1954-12-26T03:41:38.530Z,29.624,142.439,20,5.71,mw,,,,,iscgem,iscgem891381,2022-04-26T17:48:45.500Z,"Izu Islands, Japan region",earthquake,,8.5,0.47,,reviewed,iscgem,iscgem
+1954-12-26T03:40:47.660Z,30.16,142.096,20,6,mw,,,,,iscgem,iscgem891380,2022-04-26T17:48:40.347Z,"Izu Islands, Japan region",earthquake,,10.1,0.2,,reviewed,iscgem,iscgem
+1954-12-23T16:27:21.660Z,37.766,21.091,15,5.72,mw,,,,,iscgem,iscgem891374,2022-04-26T17:48:38.822Z,"9 km S of Arkoúdi, Greece",earthquake,,9.1,0.24,,reviewed,iscgem,iscgem
+1954-12-21T19:56:29.630Z,40.846,-123.893,15,6.63,mw,,,,,iscgem,iscgem891371,2022-04-26T17:48:36.028Z,"",earthquake,,3.5,0.2,,reviewed,iscgem,iscgem
+1954-12-21T11:57:22.980Z,-3.453,145.689,15,6.16,mw,,,,,iscgem,iscgem891369,2022-04-26T17:48:34.588Z,"192 km ENE of Angoram, Papua New Guinea",earthquake,,11.5,0.2,,reviewed,iscgem,iscgem
+1954-12-20T17:36:47.000Z,39.28,-118.12,,5,ml,,,,,ushis,ushis1999,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-18T01:45:36.000Z,39.28,-118.12,,4.7,ml,,,,,ushis,ushis1998,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-17T20:27:06.000Z,39.28,-118.12,,5,ml,,,,,ushis,ushis1997,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-17T10:33:29.000Z,39.28,-118.12,,4.7,ml,,,,,ushis,ushis1996,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-17T10:15:26.000Z,39.28,-118.12,,4.5,ml,,,,,ushis,ushis1995,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-17T07:08:58.000Z,37.717,-122.133,,4.5,ml,,,,,ushis,ushis1994,2018-06-04T20:43:44.000Z,"2 km ESE of San Leandro, California",earthquake,,,,,reviewed,ushis,brk
+1954-12-16T21:48:43.000Z,39.28,-118.12,,4.5,ml,,,,,ushis,ushis1993,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-16T15:09:42.000Z,39.28,-118.12,,5.1,ml,,,,,ushis,ushis1992,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-16T14:24:10.000Z,39.28,-118.12,,5.3,ml,,,,,ushis,ushis1991,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-16T14:16:57.000Z,39.28,-118.12,,5.8,ml,,,,,ushis,ushis1990,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-16T13:15:03.000Z,39.28,-118.12,,5,ml,,,,,ushis,ushis1989,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-16T11:57:30.000Z,39.28,-118.12,,5,ml,,,,,ushis,ushis1988,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-16T11:50:36.000Z,39.28,-118.12,,5,ml,,,,,ushis,ushis1987,2018-06-04T20:43:44.000Z,"48 km NNW of Gabbs, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-12-16T11:11:35.820Z,39.207,-117.704,15,6.6,mw,,,,,iscgem,iscgem891357,2022-04-26T17:48:33.128Z,"42 km NNE of Gabbs, Nevada",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1954-12-16T11:07:17.020Z,39.346,-117.981,10,7.1,mw,,,,,iscgem,iscgem891356,2022-04-26T17:48:31.790Z,"53 km N of Gabbs, Nevada",earthquake,,3.5,0.3,,reviewed,iscgem,iscgem
+1954-12-16T06:58:02.460Z,-24.3,-174.48,15,5.88,mw,,,,,iscgem,iscgem891355,2022-04-26T17:48:30.377Z,"south of Tonga",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-12-11T12:57:13.760Z,52.73,-32.013,15,6.31,mw,,,,,iscgem,iscgem891342,2022-04-26T17:48:28.317Z,"Reykjanes Ridge",earthquake,,9.3,0.26,,reviewed,iscgem,iscgem
+1954-12-11T03:32:20.980Z,-1.135,-13.591,15,5.99,mw,,,,,iscgem,iscgem891340,2022-04-26T17:48:26.804Z,"north of Ascension Island",earthquake,,3.4,0.6,,reviewed,iscgem,iscgem
+1954-12-10T13:00:29.860Z,17.601,-81.834,15,6.1,mw,,,,,iscgem,iscgem891339,2022-04-26T17:48:25.407Z,"192 km SSW of George Town, Cayman Islands",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1954-12-07T04:32:36.000Z,40.5,-126,,4.6,ml,,,,,ushis,ushis1984,2018-06-04T20:43:44.000Z,"off the coast of Northern California",earthquake,,,,,reviewed,ushis,brk
+1954-12-04T18:31:13.440Z,10.863,-61.374,49,6.1,mw,,,,,iscgem,iscgem891322,2022-04-26T17:48:24.044Z,"23 km N of Paradise, Trinidad and Tobago",earthquake,,5.2,0.3,,reviewed,iscgem,iscgem
+1954-12-04T07:00:37.160Z,-4.952,152.842,35,6.26,mw,,,,,iscgem,iscgem891320,2022-04-26T17:48:22.680Z,"92 km SE of Kokopo, Papua New Guinea",earthquake,,15.2,0.2,,reviewed,iscgem,iscgem
+1954-12-03T21:38:17.700Z,41.287,74.734,15,5.97,mw,,,,,iscgem,iscgem891317,2022-04-26T17:48:21.348Z,"90 km W of At-Bashi, Kyrgyzstan",earthquake,,5.1,0.32,,reviewed,iscgem,iscgem
+1954-11-25T20:48:56.110Z,15.278,-94.058,25,5.81,mw,,,,,iscgem,iscgem891299,2022-04-26T17:48:19.992Z,"77 km SW of Manuel Ávila Camacho (Ponte Duro), Mexico",earthquake,,14.3,0.39,,reviewed,iscgem,iscgem
+1954-11-25T11:16:40.280Z,40.447,-125.711,10,6.85,mw,,,,,iscgem,iscgem891295,2022-04-26T17:48:18.538Z,"123 km W of Ferndale, California",earthquake,,15.4,0.2,,reviewed,iscgem,iscgem
+1954-11-23T21:12:59.720Z,52.429,160.332,35,6.04,mw,,,,,iscgem,iscgem891290,2022-04-26T17:48:17.075Z,"135 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,,4,0.4,,reviewed,iscgem,iscgem
+1954-11-23T10:17:38.040Z,52.496,159.778,35,5.96,mw,,,,,iscgem,iscgem891287,2022-04-26T17:48:15.377Z,"100 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,,4.7,0.35,,reviewed,iscgem,iscgem
+1954-11-21T07:37:32.180Z,-29.857,-176.867,15,6.1,mw,,,,,iscgem,iscgem891278,2022-04-26T17:48:13.750Z,"Kermadec Islands region",earthquake,,12.4,0.2,,reviewed,iscgem,iscgem
+1954-11-19T05:56:02.490Z,40.776,132.047,551.7,6.41,mw,,,,,iscgem,iscgem891272,2022-04-26T17:48:12.103Z,"212 km ESE of Hoemul-li, North Korea",earthquake,,6.8,0.25,,reviewed,iscgem,iscgem
+1954-11-18T20:44:59.900Z,38.912,142.028,35,5.98,mw,,,,,iscgem,iscgem891270,2022-04-26T17:48:10.608Z,"32 km ESE of ?funato, Japan",earthquake,,3.9,0.25,,reviewed,iscgem,iscgem
+1954-11-18T05:20:02.100Z,48.709,155.156,63.3,6.16,mw,,,,,iscgem,iscgem891268,2022-04-26T17:48:09.121Z,"Kuril Islands",earthquake,,4.9,0.32,,reviewed,iscgem,iscgem
+1954-11-17T11:55:18.660Z,31.6265,-116.3386667,6,4.73,ml,6,339,1.088,0.47,ci,ci3298610,2017-02-07T03:32:27.095Z,"24km ESE of Maneadero, B.C., MX",earthquake,11.62,31.61,0.084,6,reviewed,ci,ci
+1954-11-15T16:26:44.300Z,18.947,145.776,189,6.7,mw,,,,,iscgem,iscgem891264,2022-04-26T17:48:07.017Z,"Pagan region, Northern Mariana Islands",earthquake,,6.2,0.55,,reviewed,iscgem,iscgem
+1954-11-14T05:36:21.390Z,31.5608333,-116.1876667,6,5.16,ml,7,333,,0.28,ci,ci3298602,2017-02-07T03:29:30.744Z,"40km ESE of Maneadero, B.C., MX",earthquake,6.69,31.61,0.101,9,reviewed,ci,ci
+1954-11-14T00:57:41.160Z,31.6841667,-116.2525,6,4.62,ml,4,345,,0.36,ci,ci3298600,2017-02-07T03:57:37.352Z,"30km E of Maneadero, B.C., MX",earthquake,13.61,31.61,0.043,10,reviewed,ci,ci
+1954-11-12T20:19:57.130Z,31.5938333,-116.2301667,6,4.62,ml,6,340,1.146,0.26,ci,ci3298593,2017-02-07T03:50:47.369Z,"35km ESE of Maneadero, B.C., MX",earthquake,6.82,31.61,0.039,8,reviewed,ci,ci
+1954-11-12T15:48:52.300Z,31.6543333,-116.2236667,6,4.56,ml,6,340,1.091,0.81,ci,ci3298590,2017-02-07T03:47:57.246Z,"33km ESE of Maneadero, B.C., MX",earthquake,21.66,31.61,0.074,7,reviewed,ci,ci
+1954-11-12T13:16:49.500Z,31.6,-116.2,6,4.8,ml,4,343,1.149,5.5,ci,ci3298585,2017-02-07T03:22:11.314Z,"37km ESE of Maneadero, B.C., MX",earthquake,99,31.61,0.072,9,reviewed,ci,ci
+1954-11-12T12:34:56.860Z,31.7195,-116.2298333,6,4.7,ml,5,339,1.029,0.79,ci,ci3298564,2017-02-07T03:24:49.545Z,"32km E of Maneadero, B.C., MX",earthquake,22.96,31.61,0.081,9,reviewed,ci,ci
+1954-11-12T12:26:53.750Z,31.9343333,-116.3126667,6,6.09,ml,9,325,,0.31,ci,ci3298562,2022-04-26T17:48:05.215Z,"30km ENE of Ensenada, B.C., MX",earthquake,9.83,31.61,0.223,5,reviewed,ci,ci
+1954-11-05T09:10:25.290Z,38.735,143.25,15,5.71,mw,,,,,iscgem,iscgem891232,2022-04-26T17:48:03.438Z,"133 km ESE of Kamaishi, Japan",earthquake,,13.3,0.67,,reviewed,iscgem,iscgem
+1954-11-02T08:24:16.570Z,-8.128,118.986,20,6.74,mw,,,,,iscgem,iscgem891222,2022-04-26T17:47:57.982Z,"46 km NE of Bima, Indonesia",earthquake,,25,0.24,,reviewed,iscgem,iscgem
+1954-10-31T23:12:57.120Z,-18.766,170.012,15,5.94,mw,,,,,iscgem,iscgem891217,2022-04-26T17:47:56.369Z,"Vanuatu",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1954-10-30T23:43:33.120Z,40.306,46.015,15,5.62,mw,,,,,iscgem,iscgem891213,2022-04-26T17:47:50.197Z,"21 km SSW of Verkhniy Dashkesan, Azerbaijan",earthquake,,8.1,0.23,,reviewed,iscgem,iscgem
+1954-10-24T11:21:32.310Z,31.6001667,-116.2115,6,5.13,ml,5,340,1.145,0.31,ci,ci3298532,2017-02-07T03:17:35.878Z,"36km ESE of Maneadero, B.C., MX",earthquake,8.54,31.61,0.202,7,reviewed,ci,ci
+1954-10-24T09:44:10.030Z,31.6075,-116.1365,6,5.92,ml,8,340,,0.42,ci,ci3298521,2022-04-26T17:47:48.508Z,"42km ESE of Maneadero, B.C., MX",earthquake,7.5,31.61,0.093,6,reviewed,ci,ci
+1954-10-21T06:51:52.820Z,14.006,-90.403,66,6.09,mw,,,,,iscgemsup,iscgemsup891181,2022-05-09T20:08:11.782Z,"7 km S of Guazacapán, Guatemala",earthquake,,6.1,0.89,,reviewed,iscgemsup,iscgemsup
+1954-10-21T00:10:15.750Z,-41.124,80.176,15,6.59,mw,,,,,iscgem,iscgem891179,2022-04-26T17:47:42.917Z,"Mid-Indian Ridge",earthquake,,4.7,0.45,,reviewed,iscgem,iscgem
+1954-10-20T23:41:49.050Z,30.919,141.678,25,5.94,mw,,,,,iscgem,iscgem891178,2022-04-26T17:47:37.578Z,"Izu Islands, Japan region",earthquake,,13.6,0.29,,reviewed,iscgem,iscgem
+1954-10-19T17:48:20.420Z,57.982,-32.811,15,5.75,mw,,,,,iscgem,iscgem891173,2022-04-26T17:47:31.491Z,"Reykjanes Ridge",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1954-10-17T22:57:23.010Z,31.377,-116.923,15,6.36,mw,,,,,iscgem,iscgem891170,2022-04-26T17:47:25.639Z,"50 km SW of Rodolfo Sánchez Taboada, Mexico",earthquake,,4.1,0.31,,reviewed,iscgem,iscgem
+1954-10-17T22:57:05.950Z,30.6101667,-116.9056667,6,5.77,ml,9,329,,0.63,ci,ci3298512,2016-01-28T18:18:16.560Z,"127km SSW of Maneadero, B.C., MX",earthquake,99,31.61,0.194,6,reviewed,ci,ci
+1954-10-16T00:28:14.860Z,70.932,-14.623,15,5.3,mw,,,,,iscgemsup,iscgemsup891165,2022-05-09T20:08:10.021Z,"215 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
+1954-10-14T01:35:08.560Z,-7.538,127.683,35,6.31,mw,,,,,iscgemsup,iscgemsup891164,2022-05-09T20:08:08.561Z,"132 km NE of Lospalos, Timor Leste",earthquake,,16.5,0.77,,reviewed,iscgemsup,iscgemsup
+1954-10-05T04:18:20.540Z,33.728,141.148,35,5.61,mw,,,,,iscgem,iscgem891139,2022-04-26T17:47:24.413Z,"174 km SSE of Katsuura, Japan",earthquake,,11.8,0.2,,reviewed,iscgem,iscgem
+1954-10-04T09:33:02.370Z,-10.736,165.735,20,6.03,mw,,,,,iscgem,iscgem891135,2022-04-26T17:47:23.247Z,"6 km W of Lata, Solomon Islands",earthquake,,16.9,0.5,,reviewed,iscgem,iscgem
+1954-10-03T23:21:46.890Z,-1.32,126.857,25,6.01,mw,,,,,iscgem,iscgem891132,2022-04-26T17:47:22.102Z,"240 km SSW of Sofifi, Indonesia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-10-03T11:18:48.530Z,60.651,-150.392,61.5,6.77,mw,,,,,iscgem,iscgem891130,2022-04-26T17:47:20.951Z,"24 km ENE of Sterling, Alaska",earthquake,,5.1,0.3,,reviewed,iscgem,iscgem
+1954-10-03T02:47:29.100Z,-10.658,165.977,35,6.78,mw,,,,,iscgem,iscgem891128,2022-04-26T17:47:19.883Z,"21 km ENE of Lata, Solomon Islands",earthquake,,34.2,0.22,,reviewed,iscgem,iscgem
+1954-10-01T06:50:24.070Z,-14.942,-172.814,25,5.93,mw,,,,,iscgem,iscgem891122,2022-04-26T17:47:18.713Z,"137 km SSW of Gataivai, Samoa",earthquake,,4,0.34,,reviewed,iscgem,iscgem
+1954-10-01T02:55:43.680Z,-10.969,166.046,35,6.46,mw,,,,,iscgem,iscgem891120,2022-04-26T17:47:16.893Z,"38 km SE of Lata, Solomon Islands",earthquake,,23.4,0.2,,reviewed,iscgem,iscgem
+1954-09-28T12:53:09.870Z,-15.933,-172.572,15,5.95,mw,,,,,iscgem,iscgem891113,2022-04-26T17:47:15.634Z,"131 km E of Hihifo, Tonga",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1954-09-28T00:25:04.270Z,52.117,160.278,20,5.93,mw,,,,,iscgem,iscgem891112,2022-04-26T17:47:14.531Z,"153 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,,10.5,0.34,,reviewed,iscgem,iscgem
+1954-09-27T16:38:23.480Z,42.454,142.747,60.1,5.95,mw,,,,,iscgemsup,iscgemsup891109,2022-05-09T20:07:57.480Z,"34 km ENE of Shizunai-furukawach?, Japan",earthquake,,4.8,0.72,,reviewed,iscgemsup,iscgemsup
+1954-09-25T11:14:02.640Z,-50.251,138.006,15,5.91,mw,,,,,iscgem,iscgem891106,2022-04-26T17:47:13.374Z,"western Indian-Antarctic Ridge",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-09-23T21:43:40.930Z,48.88,156.519,20,6.46,mw,,,,,iscgem,iscgem891101,2022-04-26T17:47:12.267Z,"201 km S of Severo-Kuril’sk, Russia",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1954-09-20T00:39:36.370Z,-1.937,120.402,50,6,mw,,,,,iscgem,iscgem891091,2022-04-26T17:47:11.128Z,"71 km SSW of Poso, Indonesia",earthquake,,21.4,0.2,,reviewed,iscgem,iscgem
+1954-09-17T07:33:29.690Z,24.14,121.795,35,5.81,mw,,,,,iscgem,iscgem891078,2022-04-26T17:47:09.945Z,"26 km NE of Hualien City, Taiwan",earthquake,,4.8,0.2,,reviewed,iscgem,iscgem
+1954-09-14T07:20:14.600Z,26.361,128.396,35,6.02,mw,,,,,iscgem,iscgem891069,2022-04-26T17:47:08.654Z,"49 km SE of Nago, Japan",earthquake,,4.6,0.2,,reviewed,iscgem,iscgem
+1954-09-13T18:19:21.120Z,20.773,121.287,25,5.96,mw,,,,,iscgem,iscgem891065,2022-04-26T17:47:03.287Z,"",earthquake,,31.2,0.27,,reviewed,iscgem,iscgem
+1954-09-13T18:12:43.200Z,20.968,121.305,25,5.91,mw,,,,,iscgem,iscgem891064,2022-04-26T17:47:02.151Z,"Batan Islands region, Philippines",earthquake,,31.2,0.21,,reviewed,iscgem,iscgem
+1954-09-12T07:43:55.330Z,40.864,143.522,25,6.26,mw,,,,,iscgem,iscgem891060,2022-04-26T17:47:00.859Z,"175 km ENE of Hachinohe, Japan",earthquake,,3.8,0.4,,reviewed,iscgem,iscgem
+1954-09-10T05:44:09.810Z,36.464,1.241,15,6.16,mw,,,,,iscgem,iscgem891056,2022-04-26T17:46:55.029Z,"5 km W of Sidi Akkacha, Algeria",earthquake,,3.9,0.26,,reviewed,iscgem,iscgem
+1954-09-09T09:28:47.990Z,36.422,1.337,15,5.36,mw,,,,,iscgemsup,iscgemsup891049,2022-05-09T20:07:38.209Z,"5 km SSE of Sidi Akkacha, Algeria",earthquake,,11.3,0.23,,reviewed,iscgemsup,iscgemsup
+1954-09-09T09:21:05.000Z,39.58,-118.45,,4.9,ml,,,,,ushis,ushis1979,2018-06-04T20:43:44.000Z,"29 km NE of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-09-09T01:04:43.420Z,36.274,1.594,15,6.68,mw,,,,,iscgem,iscgem891046,2022-04-26T17:46:49.914Z,"northern Algeria",earthquake,,3.8,0.2,,reviewed,iscgem,iscgem
+1954-09-07T00:35:17.300Z,20.473,120.964,25,5.98,mw,,,,,iscgem,iscgem891041,2022-04-26T17:46:44.616Z,"105 km W of Basco, Philippines",earthquake,,8.2,0.2,,reviewed,iscgem,iscgem
+1954-09-07T00:11:52.440Z,20.5,120.834,25,6.17,mw,,,,,iscgemsup,iscgemsup891040,2022-05-09T20:07:26.154Z,"118 km W of Basco, Philippines",earthquake,,8.2,0.77,,reviewed,iscgemsup,iscgemsup
+1954-09-07T00:08:27.580Z,20.705,120.896,25,6.14,mw,,,,,iscgem,iscgem891039,2022-04-26T17:46:43.453Z,"115 km WNW of Basco, Philippines",earthquake,,8.2,0.38,,reviewed,iscgem,iscgem
+1954-09-06T18:30:55.500Z,51.442,157.748,60,6.35,mw,,,,,iscgem,iscgem891038,2022-04-26T17:46:42.193Z,"86 km E of Ozernovskiy, Russia",earthquake,,5,0.39,,reviewed,iscgem,iscgem
+1954-09-06T16:47:05.400Z,20.724,121.064,25,6.1,mw,,,,,iscgem,iscgem891037,2022-04-26T17:46:37.646Z,"99 km WNW of Basco, Philippines",earthquake,,8.2,0.21,,reviewed,iscgem,iscgem
+1954-09-05T07:45:38.180Z,-19.632,176.415,15,6.31,mw,,,,,iscgem,iscgem891031,2022-04-26T17:46:36.434Z,"228 km SSW of Nadi, Fiji",earthquake,,4.6,0.27,,reviewed,iscgem,iscgem
+1954-09-04T13:11:56.090Z,-11.885,166.402,35,5.99,mw,,,,,iscgemsup,iscgemsup891029,2022-05-09T20:07:20.551Z,"144 km SSE of Lata, Solomon Islands",earthquake,,58.5,1,,reviewed,iscgemsup,iscgemsup
+1954-09-04T08:53:30.260Z,21.475,121.647,35,6.01,mw,,,,,iscgem,iscgem891027,2022-04-26T17:46:35.245Z,"110 km ESE of Hengchun, Taiwan",earthquake,,27.8,0.69,,reviewed,iscgem,iscgem
+1954-09-04T06:43:49.430Z,28.169,83.825,15,5.91,mw,,,,,iscgem,iscgem891025,2022-04-26T17:46:34.078Z,"17 km SW of Pokhara, Nepal",earthquake,,25,0.5,,reviewed,iscgem,iscgem
+1954-09-04T03:28:36.380Z,-3.408,139.399,47.9,6.39,mw,,,,,iscgem,iscgem891023,2022-04-26T17:46:32.883Z,"163 km WSW of Abepura, Indonesia",earthquake,,6.2,0.43,,reviewed,iscgem,iscgem
+1954-09-02T01:54:37.030Z,41.932,19.847,15,5.18,mw,,,,,iscgemsup,iscgemsup891019,2022-05-09T20:07:17.065Z,"13 km SSW of Pukë, Albania",earthquake,,6.4,0.29,,reviewed,iscgemsup,iscgemsup
+1954-08-31T22:20:36.890Z,39.813,-118.465,15,5.8,mw,,,,,iscgem,iscgem891016,2022-04-26T17:46:31.642Z,"40 km S of Lovelock, Nevada",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1954-08-30T07:57:26.260Z,43.554,147.81,57,5.96,mw,,,,,iscgem,iscgem891011,2022-04-26T17:46:30.480Z,"91 km ESE of Shikotan, Russia",earthquake,,5.2,0.4,,reviewed,iscgem,iscgem
+1954-08-29T03:58:05.000Z,39.58,-118.45,,4.8,ml,,,,,ushis,ushis1976,2018-06-04T20:43:44.000Z,"29 km NE of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-08-29T03:41:06.000Z,39.58,-118.45,,4.7,ml,,,,,ushis,ushis1975,2018-06-04T20:43:44.000Z,"29 km NE of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-08-28T23:04:27.060Z,-57.852,-66.066,15,5.96,mw,,,,,iscgemsup,iscgemsup891008,2022-05-09T20:07:10.584Z,"Drake Passage",earthquake,,25,0.9,,reviewed,iscgemsup,iscgemsup
+1954-08-28T10:01:25.970Z,36.531,141.302,42.1,5.75,mw,,,,,iscgem,iscgem891007,2022-04-26T17:46:29.295Z,"56 km ESE of Takahagi, Japan",earthquake,,5,0.28,,reviewed,iscgem,iscgem
+1954-08-27T12:21:32.890Z,70.483,-15.172,15,5.41,mw,,,,,iscgemsup,iscgemsup891004,2022-05-09T20:07:08.442Z,"242 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,1.9,0.21,,reviewed,iscgemsup,iscgemsup
+1954-08-27T10:54:55.400Z,23.988,143.022,25,7.2,mw,,,,,iscgem,iscgem891003,2022-04-26T17:46:28.025Z,"Volcano Islands, Japan region",earthquake,,7.2,0.2,,reviewed,iscgem,iscgem
+1954-08-26T13:48:01.610Z,33.87,-119.5406667,6,4.76,ml,12,231,0.5874,0.47,ci,ci3298426,2018-06-04T20:43:44.000Z,"18km S of Santa Cruz Is. (E end), CA",earthquake,2.85,31.61,0.174,10,reviewed,ci,ci
+1954-08-26T12:56:15.000Z,39.58,-118.45,,4.6,ml,,,,,ushis,ushis1973,2018-06-04T20:43:44.000Z,"29 km NE of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-08-25T22:21:10.000Z,39.58,-118.45,,4.7,ml,,,,,ushis,ushis1972,2018-06-04T20:43:44.000Z,"29 km NE of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-08-25T02:17:13.000Z,39.58,-118.45,,4.8,ml,,,,,ushis,ushis1971,2018-06-04T20:43:44.000Z,"29 km NE of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-08-24T05:57:46.000Z,39.58,-118.45,,5.2,ml,,,,,ushis,ushis1970,2018-06-04T20:43:44.000Z,"29 km NE of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-08-24T05:51:35.160Z,39.378,-118.516,15,6.5,mw,,,,,iscgem,iscgem890996,2022-04-26T17:46:26.837Z,"17 km ESE of Fallon Station, Nevada",earthquake,,2.2,0.3,,reviewed,iscgem,iscgem
+1954-08-22T10:08:06.060Z,70.555,-15.572,15,5.29,mw,,,,,iscgemsup,iscgemsup890987,2022-05-09T20:07:07.391Z,"255 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
+1954-08-22T02:51:45.720Z,70.67,-15.159,15,5.16,mw,,,,,iscgemsup,iscgemsup890986,2022-05-09T20:07:06.261Z,"238 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,1.9,0.2,,reviewed,iscgemsup,iscgemsup
+1954-08-21T22:51:04.870Z,71.249,-14.571,15,5.63,mw,,,,,iscgem,iscgem890984,2022-04-26T17:46:25.537Z,"214 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,25,0.36,,reviewed,iscgem,iscgem
+1954-08-21T17:40:08.540Z,70.852,-14.854,15,5.26,mw,,,,,iscgemsup,iscgemsup890983,2022-05-09T20:07:05.167Z,"224 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
+1954-08-21T07:19:51.410Z,70.595,-15.61,15,5.53,mw,,,,,iscgem,iscgem890981,2022-04-26T17:46:19.734Z,"256 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1954-08-21T06:38:41.580Z,7.106,126.432,35,5.89,mw,,,,,iscgem,iscgem890980,2022-04-26T17:46:18.138Z,"5 km NNW of Jovellar, Philippines",earthquake,,32.9,0.37,,reviewed,iscgem,iscgem
+1954-08-21T00:25:38.780Z,70.661,-15.023,15,5.53,mw,,,,,iscgem,iscgem890978,2022-04-26T17:46:16.805Z,"233 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,1.9,0.31,,reviewed,iscgem,iscgem
+1954-08-20T22:59:18.130Z,70.62,-15.334,15,5.44,mw,,,,,iscgem,iscgem890977,2022-04-26T17:46:11.619Z,"245 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,25,0.55,,reviewed,iscgem,iscgem
+1954-08-20T20:24:09.000Z,71.389,-15.539,15,5.38,mw,,,,,iscgemsup,iscgemsup890975,2022-05-09T20:07:04.191Z,"251 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,25,0.38,,reviewed,iscgemsup,iscgemsup
+1954-08-20T19:21:35.870Z,70.759,-15.152,15,5.19,mw,,,,,iscgemsup,iscgemsup890974,2022-05-09T20:07:02.558Z,"236 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,25,0.28,,reviewed,iscgemsup,iscgemsup
+1954-08-19T21:03:26.610Z,40.986,36.516,15,5.35,mw,,,,,iscgemsup,iscgemsup890972,2022-05-09T20:07:00.832Z,"9 km W of Ayvac?k, Turkey",earthquake,,5.5,0.2,,reviewed,iscgemsup,iscgemsup
+1954-08-14T22:56:16.360Z,-2.728,127.408,25,5.92,mw,,,,,iscgem,iscgem890958,2022-04-26T17:46:05.660Z,"137 km NW of Ambon, Indonesia",earthquake,,2.1,0.2,,reviewed,iscgem,iscgem
+1954-08-14T01:36:49.050Z,51.426,161.018,15,5.65,mw,,,,,iscgem,iscgem890956,2022-04-26T17:46:00.160Z,"244 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,,16,0.34,,reviewed,iscgem,iscgem
+1954-08-09T19:16:53.310Z,53.46,160.608,36.6,6.31,mw,,,,,iscgem,iscgem890942,2022-04-26T17:45:58.417Z,"139 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,,4.8,0.42,,reviewed,iscgem,iscgem
+1954-08-06T19:21:17.400Z,40.619,16.008,15,5.6,mw,,,,,iscgem,iscgem890936,2022-04-26T17:45:56.847Z,"4 km NW of Albano di Lucania, Italy",earthquake,,6.9,0.2,,reviewed,iscgem,iscgem
+1954-08-06T16:19:50.420Z,-1.297,-23.507,15,5.87,mw,,,,,iscgem,iscgem890935,2022-04-26T17:45:55.029Z,"central Mid-Atlantic Ridge",earthquake,,25,0.35,,reviewed,iscgem,iscgem
+1954-08-05T23:44:34.640Z,-6.023,146.924,25,6.18,mw,,,,,iscgem,iscgem890932,2022-04-26T17:45:49.435Z,"77 km N of Lae, Papua New Guinea",earthquake,,32.3,0.2,,reviewed,iscgem,iscgem
+1954-08-05T20:39:13.640Z,35.9,27.572,25,5.3,mw,,,,,iscgemsup,iscgemsup890931,2022-05-09T20:06:28.552Z,"44 km SW of Émponas, Greece",earthquake,,13.7,0.23,,reviewed,iscgemsup,iscgemsup
+1954-08-05T08:49:55.460Z,51.615,175.901,65,5.93,mw,,,,,iscgem,iscgem890926,2022-04-26T17:45:48.224Z,"230 km SE of Attu Station, Alaska",earthquake,,5.1,0.2,,reviewed,iscgem,iscgem
+1954-08-05T05:03:08.000Z,39.42,-118.53,,4.7,ml,,,,,ushis,ushis1967,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-08-03T21:24:54.000Z,39.42,-118.53,,4.7,ml,,,,,ushis,ushis1966,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-08-03T18:18:16.320Z,40.029,24.481,15,6,mw,,,,,iscgem,iscgem890916,2022-04-26T17:45:41.668Z,"32 km SE of Karyes, Greece",earthquake,,6.2,0.23,,reviewed,iscgem,iscgem
+1954-08-02T23:28:38.760Z,-36.331,-101.334,15,5.77,mw,,,,,iscgem,iscgem890914,2022-04-26T17:45:40.411Z,"southeast of Easter Island",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-08-02T10:18:53.000Z,39.42,-118.53,,5.4,ml,,,,,ushis,ushis1965,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-31T17:24:14.000Z,39.42,-118.53,,4.5,ml,,,,,ushis,ushis1964,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-31T01:00:03.200Z,38.622,104.151,25,6.86,mw,,,,,iscgem,iscgem890902,2022-04-26T17:45:39.098Z,"153 km ENE of Wuwei, China",earthquake,,25,0.52,,reviewed,iscgem,iscgem
+1954-07-30T08:46:06.670Z,-36.215,-97.363,10,6.62,mw,,,,,iscgem,iscgem890900,2022-04-26T17:45:33.313Z,"West Chile Rise",earthquake,,25,0.23,,reviewed,iscgem,iscgem
+1954-07-30T02:00:10.000Z,39.42,-118.53,,5.1,ml,,,,,ushis,ushis1963,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-29T04:42:29.590Z,46.359,7.367,15,5.38,mw,,,,,iscgemsup,iscgemsup890896,2022-05-09T20:06:25.340Z,"9 km NNW of Ayent, Switzerland",earthquake,,4.5,0.2,,reviewed,iscgemsup,iscgemsup
+1954-07-29T03:34:25.460Z,49.563,158.08,15,6.2,mw,,,,,iscgem,iscgem890895,2022-04-26T17:45:27.159Z,"east of the Kuril Islands",earthquake,,3.5,0.36,,reviewed,iscgem,iscgem
+1954-07-27T20:57:53.600Z,11.42,-43.688,15,5.6,mw,,,,,iscgem,iscgem890891,2022-04-26T17:45:25.702Z,"northern Mid-Atlantic Ridge",earthquake,,25,0.6,,reviewed,iscgem,iscgem
+1954-07-26T22:09:56.550Z,11.251,-43.616,15,5.69,mw,,,,,iscgem,iscgem890889,2022-04-26T17:45:24.048Z,"northern Mid-Atlantic Ridge",earthquake,,25,0.32,,reviewed,iscgem,iscgem
+1954-07-26T20:15:52.690Z,-41.233,-72.955,55,6.34,mw,,,,,iscgem,iscgem890888,2022-04-26T17:45:22.522Z,"9 km NNE of Puerto Varas, Chile",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1954-07-23T14:45:18.490Z,33.954,69.723,15,5.68,mw,,,,,iscgem,iscgem890877,2022-04-26T17:45:17.385Z,"25 km SSE of ?uk?mat? Azrah, Afghanistan",earthquake,,9.5,0.34,,reviewed,iscgem,iscgem
+1954-07-23T04:33:34.060Z,-30.415,-71.51,38.3,6.11,mw,,,,,iscgem,iscgem890876,2022-04-26T17:45:16.050Z,"36 km NW of Ovalle, Chile",earthquake,,5,0.2,,reviewed,iscgem,iscgem
+1954-07-21T04:38:55.420Z,27.517,101.033,15,5.72,mw,,,,,iscgem,iscgem890872,2022-04-26T17:45:10.730Z,"107 km NE of Lijiang, China",earthquake,,5.1,0.23,,reviewed,iscgem,iscgem
+1954-07-20T00:11:38.000Z,38.2,-116.4,,5,ml,,,,,ushis,ushis1962,2021-05-17T23:02:06.702Z,"74 km E of Tonopah, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-19T20:01:55.200Z,31.6258333,-115.7726667,6,4.79,ml,9,341,1.299,0.26,ci,ci3300024,2017-02-07T03:55:05.658Z,"76km E of Maneadero, B.C., MX",earthquake,9.74,31.61,0.12,9,reviewed,ci,ci
+1954-07-18T14:42:33.650Z,37.503,21.179,15,5.56,mw,,,,,iscgem,iscgem890869,2022-04-26T17:45:09.193Z,"30 km SW of Pýrgos, Greece",earthquake,,12.5,0.24,,reviewed,iscgem,iscgem
+1954-07-18T09:07:42.430Z,35.641,140.903,55,6.28,mw,,,,,iscgem,iscgem890863,2022-04-26T17:45:03.336Z,"12 km SSE of Hasaki, Japan",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1954-07-18T06:34:44.060Z,55.323,162.097,35,5.95,mw,,,,,iscgemsup,iscgemsup890862,2022-05-09T20:06:15.494Z,"103 km SSW of Ust’-Kamchatsk Staryy, Russia",earthquake,,5,0.71,,reviewed,iscgemsup,iscgemsup
+1954-07-15T00:03:45.630Z,-15.23,-175.323,15,6.09,mw,,,,,iscgem,iscgem890855,2022-04-26T17:45:01.932Z,"182 km WNW of Hihifo, Tonga",earthquake,,12.1,0.2,,reviewed,iscgem,iscgem
+1954-07-13T08:04:49.990Z,-3.242,150.462,15,6.15,mw,,,,,iscgem,iscgem890852,2022-04-26T17:45:00.720Z,"New Ireland region, Papua New Guinea",earthquake,,6.6,0.26,,reviewed,iscgem,iscgem
+1954-07-12T17:32:13.570Z,45.883,153.271,15,5.69,mw,,,,,iscgem,iscgem890844,2022-04-26T17:44:59.578Z,"",earthquake,,3.2,0.2,,reviewed,iscgem,iscgem
+1954-07-12T16:05:25.000Z,39.42,-118.53,,4.6,ml,,,,,ushis,ushis1961,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-12T10:17:06.000Z,39.42,-118.53,,4.5,ml,,,,,ushis,ushis1960,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-11T09:58:12.000Z,39.42,-118.53,,4.6,ml,,,,,ushis,ushis1959,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-11T07:04:00.000Z,39.42,-118.53,,4.6,ml,,,,,ushis,ushis1958,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-10T01:22:20.000Z,39.42,-118.53,,4.6,ml,,,,,ushis,ushis1957,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-09T18:28:53.400Z,40.81,138.618,262.6,6.09,mw,,,,,iscgem,iscgem890836,2022-04-26T17:44:57.938Z,"136 km WNW of Noshiro, Japan",earthquake,,6,0.24,,reviewed,iscgem,iscgem
+1954-07-09T15:38:23.570Z,43.074,147.276,39.2,5.79,mw,,,,,iscgem,iscgem890835,2022-04-26T17:44:51.635Z,"92 km SSE of Shikotan, Russia",earthquake,,5.2,0.3,,reviewed,iscgem,iscgem
+1954-07-09T08:50:03.000Z,39.42,-118.53,,4.9,ml,,,,,ushis,ushis1956,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-08T19:31:57.000Z,39.42,-118.53,,5.3,ml,,,,,ushis,ushis1955,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-08T12:55:10.000Z,39.42,-118.53,,4.7,ml,,,,,ushis,ushis1954,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-08T04:08:19.000Z,39.42,-118.53,,4.5,ml,,,,,ushis,ushis1953,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-08T02:13:55.000Z,39.42,-118.53,,4.8,ml,,,,,ushis,ushis1952,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-07T06:11:08.000Z,39.42,-118.53,,4.6,ml,,,,,ushis,ushis1951,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-06T22:07:44.820Z,39.242,-118.599,10,5.9,mw,,,,,iscgem,iscgem890827,2022-04-26T17:44:50.064Z,"21 km SSE of Fallon Station, Nevada",earthquake,,4.5,0.3,,reviewed,iscgem,iscgem
+1954-07-06T14:55:15.000Z,39.42,-118.53,,4.5,ml,,,,,ushis,ushis1949,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-06T13:36:01.000Z,39.42,-118.53,,4.5,ml,,,,,ushis,ushis1948,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-06T13:15:11.000Z,39.42,-118.53,,5.2,ml,,,,,ushis,ushis1947,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-06T12:53:59.000Z,39.42,-118.53,,4.5,ml,,,,,ushis,ushis1946,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-06T11:49:00.000Z,39.42,-118.53,,5.7,ml,,,,,ushis,ushis1945,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-06T11:41:00.000Z,39.42,-118.53,,4.5,ml,,,,,ushis,ushis1944,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-06T11:26:55.000Z,39.42,-118.53,,4.8,ml,,,,,ushis,ushis1943,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-06T11:18:04.000Z,39.42,-118.53,,5.5,ml,,,,,ushis,ushis1942,2018-06-04T20:43:44.000Z,"16 km E of Fallon Station, Nevada",earthquake,,,,,reviewed,ushis,brk
+1954-07-06T11:13:23.420Z,39.42,-118.566,10,6.2,mw,,,,,iscgem,iscgem890822,2022-04-26T17:44:44.173Z,"12 km E of Fallon Station, Nevada",earthquake,,3.7,0.3,,reviewed,iscgem,iscgem
+1954-07-06T08:04:37.250Z,46.463,153.384,19.1,6.53,mw,,,,,iscgem,iscgem890818,2022-04-26T17:44:43.100Z,"Kuril Islands",earthquake,,3.8,0.2,,reviewed,iscgem,iscgem
+1954-07-06T04:00:18.660Z,-2.918,148.177,15,6.13,mw,,,,,iscgem,iscgem890817,2022-04-26T17:44:41.953Z,"140 km SE of Lorengau, Papua New Guinea",earthquake,,1.9,0.3,,reviewed,iscgem,iscgem
+1954-07-03T22:31:27.020Z,-6.624,105.447,60,6.82,mw,,,,,iscgem,iscgem890812,2022-04-26T17:44:40.650Z,"50 km WSW of Labuan, Indonesia",earthquake,,5.2,0.43,,reviewed,iscgem,iscgem
+1954-07-03T21:52:35.000Z,19.4,-155.2,12,5.4,ml,,,,,ushis,ushis1940,2018-06-04T20:43:44.000Z,"5 km SE of Volcano, Hawaii",earthquake,,,,,reviewed,ushis,hvo
+1954-07-03T21:15:06.990Z,19.207,121.263,35,5.77,mw,,,,,iscgem,iscgem890810,2022-04-26T17:44:34.764Z,"66 km N of Namuac, Philippines",earthquake,,24.1,0.2,,reviewed,iscgem,iscgem
+1954-07-03T00:32:59.460Z,-3.471,29.097,15,5.98,mw,,,,,iscgem,iscgem890809,2022-04-26T17:44:33.541Z,"9 km SSW of Uvira, Democratic Republic of the Congo",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-07-02T02:45:12.870Z,12.835,124.079,15,6.57,mw,,,,,iscgem,iscgem890805,2022-04-26T17:44:28.385Z,"5 km SSE of Santa Cruz, Philippines",earthquake,,30.9,0.4,,reviewed,iscgem,iscgem
+1954-07-01T03:15:18.070Z,51.519,159.694,20,5.61,mw,,,,,iscgem,iscgem890802,2022-04-26T17:44:27.208Z,"180 km SSE of Vilyuchinsk, Russia",earthquake,,10.9,0.64,,reviewed,iscgem,iscgem
+1954-06-30T13:26:55.960Z,5.691,37.145,15,6.02,mw,,,,,iscgem,iscgem890799,2022-04-26T17:44:21.663Z,"24 km W of G?dol?, Ethiopia",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-06-28T04:57:56.110Z,-58.569,-142.451,15,6.16,mw,,,,,iscgem,iscgem890794,2022-04-26T17:44:15.792Z,"Pacific-Antarctic Ridge",earthquake,,25,0.37,,reviewed,iscgem,iscgem
+1954-06-20T22:07:57.720Z,0.09,-17.84,15,5.73,mw,,,,,iscgem,iscgem890775,2022-04-26T17:44:09.463Z,"north of Ascension Island",earthquake,,9.8,0.66,,reviewed,iscgem,iscgem
+1954-06-19T01:56:32.130Z,29.256,130.336,45,5.94,mw,,,,,iscgem,iscgem890769,2022-04-26T17:44:02.735Z,"109 km S of Yudomari, Japan",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1954-06-18T17:54:48.860Z,-6.327,105.122,55,5.71,mw,,,,,iscgem,iscgem890767,2022-04-26T17:43:56.164Z,"78 km W of Labuan, Indonesia",earthquake,,30.2,0.27,,reviewed,iscgem,iscgem
+1954-06-17T01:42:28.210Z,56.028,-154.249,25,6.03,mw,,,,,iscgem,iscgem890763,2022-04-26T17:43:49.797Z,"Kodiak Island region, Alaska",earthquake,,4.6,0.3,,reviewed,iscgem,iscgem
+1954-06-06T16:50:40.000Z,-3.637,135.656,10,6.86,mw,,,,,iscgem,iscgem890733,2022-04-26T17:43:43.865Z,"35 km SSE of Nabire, Indonesia",earthquake,,8.8,0.2,,reviewed,iscgem,iscgem
+1954-06-04T20:42:45.900Z,27.081,-110.983,15,5.64,mw,,,,,iscgem,iscgem890728,2022-04-26T17:43:37.580Z,"60 km WSW of Bahía de Lobos, Mexico",earthquake,,25,0.65,,reviewed,iscgem,iscgem
+1954-06-04T16:01:58.600Z,27.629,-111.11,15,5.89,mw,,,,,iscgem,iscgem890725,2022-04-26T17:43:35.828Z,"36 km S of San Carlos, Mexico",earthquake,,25,0.23,,reviewed,iscgem,iscgem
+1954-06-04T10:41:35.110Z,-8.475,105.585,15,5.91,mw,,,,,iscgem,iscgem890724,2022-04-26T17:43:30.212Z,"196 km SSW of Pelabuhanratu, Indonesia",earthquake,,25,0.26,,reviewed,iscgem,iscgem
+1954-06-04T06:50:43.590Z,-0.88,-91.864,15,6.26,mw,,,,,iscgem,iscgem890723,2022-04-26T17:43:24.488Z,"Galapagos Islands, Ecuador",earthquake,,25,0.32,,reviewed,iscgem,iscgem
+1954-05-31T08:06:14.850Z,31.0101667,-115.2378333,6,5.18,ml,9,341,,0.44,ci,ci3299946,2016-01-28T18:13:35.660Z,"134km S of Estacion Coahuila, B.C., MX",earthquake,99,31.61,0.08,3,reviewed,ci,ci
+1954-05-26T01:43:07.710Z,51.24,160.077,20,5.89,mw,,,,,iscgemsup,iscgemsup890697,2022-05-09T20:05:43.064Z,"220 km SSE of Vilyuchinsk, Russia",earthquake,,14.4,0.75,,reviewed,iscgemsup,iscgemsup
+1954-05-25T22:03:35.480Z,39.21,22.206,15,5.72,mw,,,,,iscgem,iscgem890696,2022-04-26T17:43:23.263Z,"6 km WSW of Néon Monastírion, Greece",earthquake,,5.6,0.2,,reviewed,iscgem,iscgem
+1954-05-23T23:52:43.130Z,34.9681667,-119.0023333,14.48,5.03,ml,14,90,,0.34,ci,ci3299932,2018-06-04T20:43:44.000Z,"7km WNW of Grapevine, CA",earthquake,0.68,1.32,0.146,9,reviewed,ci,ci
+1954-05-23T06:56:47.910Z,3.156,124.037,15,5.97,mw,,,,,iscgem,iscgem890688,2022-04-26T17:43:22.018Z,"205 km NNW of Manado, Indonesia",earthquake,,25,0.32,,reviewed,iscgem,iscgem
+1954-05-19T23:07:21.560Z,-5.215,152.223,35,6.18,mw,,,,,iscgem,iscgem890681,2022-04-26T17:43:20.754Z,"96 km S of Kokopo, Papua New Guinea",earthquake,,31,0.2,,reviewed,iscgem,iscgem
+1954-05-19T09:34:59.160Z,46.359,7.258,15,5.51,mw,,,,,iscgem,iscgem890679,2022-04-26T17:43:19.624Z,"12 km S of Gstaad, Switzerland",earthquake,,4.5,0.37,,reviewed,iscgem,iscgem
+1954-05-15T13:02:14.000Z,48,-122,,5,ml,,,,,ushis,ushis1936,2018-06-04T20:43:44.000Z,"4 km ENE of Machias, Washington",earthquake,,,,,reviewed,ushis,epb
+1954-05-13T14:46:39.810Z,16.77,-95.974,62.4,6.31,mw,,,,,iscgem,iscgem890659,2022-04-26T17:43:18.370Z,"6 km ESE of San Pedro Quiatoni, Mexico",earthquake,,5.4,0.2,,reviewed,iscgem,iscgem
+1954-05-09T14:14:35.750Z,70.991,-13.014,15,5.44,mw,,,,,iscgem,iscgem890643,2022-04-26T17:43:17.232Z,"156 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,6.2,0.37,,reviewed,iscgem,iscgem
+1954-05-05T17:13:20.650Z,50.229,156.818,46.4,5.97,mw,,,,,iscgem,iscgem890628,2022-04-26T17:43:16.121Z,"69 km SE of Severo-Kuril’sk, Russia",earthquake,,5.3,0.7,,reviewed,iscgem,iscgem
+1954-05-05T13:09:53.360Z,27.71,-112.073,10,6.38,mw,,,,,iscgem,iscgem890627,2022-04-26T17:43:14.760Z,"45 km NNE of Santa Rosalía, Mexico",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-05-04T16:45:30.180Z,39.131,22.111,15,5.66,mw,,,,,iscgem,iscgem890615,2022-04-26T17:43:09.435Z,"6 km SSE of Anávra, Greece",earthquake,,5.6,0.2,,reviewed,iscgem,iscgem
+1954-05-04T16:43:23.740Z,39.218,21.986,15,5.82,mw,,,,,iscgem,iscgem890614,2022-04-26T17:43:08.296Z,"6 km SSE of Kallifóni, Greece",earthquake,,5.6,0.29,,reviewed,iscgem,iscgem
+1954-05-03T17:13:37.760Z,11.89,-86.115,141.3,5.98,mw,,,,,iscgem,iscgem890608,2022-04-26T17:43:07.140Z,"2 km SW of Niquinohomo, Nicaragua",earthquake,,6.2,0.56,,reviewed,iscgem,iscgem
+1954-05-03T15:29:49.930Z,51.809,159.73,30,6.41,mw,,,,,iscgem,iscgem890607,2022-04-26T17:43:06.001Z,"154 km SE of Vilyuchinsk, Russia",earthquake,,4,0.25,,reviewed,iscgem,iscgem
+1954-05-03T13:29:45.830Z,35.34,27.36,25,5.38,mw,,,,,iscgemsup,iscgemsup890606,2022-05-09T20:05:26.591Z,"22 km SE of Karpathos, Greece",earthquake,,4.7,0.43,,reviewed,iscgemsup,iscgemsup
+1954-05-02T17:48:09.400Z,4.237,95.062,30,5.94,mw,,,,,iscgem,iscgem890599,2022-04-26T17:43:04.733Z,"118 km W of Meulaboh, Indonesia",earthquake,,4.5,0.24,,reviewed,iscgem,iscgem
+1954-05-01T20:53:28.070Z,37.735,27.141,15,5.55,mw,,,,,iscgem,iscgem890595,2022-04-26T17:42:58.943Z,"13 km W of Davutlar, Turkey",earthquake,,4.9,0.25,,reviewed,iscgem,iscgem
+1954-05-01T15:24:55.570Z,37.851,27.327,15,5.42,mw,,,,,iscgemsup,iscgemsup890593,2022-05-09T20:05:20.041Z,"6 km E of Ku?adas?, Turkey",earthquake,,5.7,0.43,,reviewed,iscgemsup,iscgemsup
+1954-05-01T00:20:08.820Z,-16.603,174.008,15,5.84,mw,,,,,iscgem,iscgem890588,2022-04-26T17:42:57.629Z,"Fiji region",earthquake,,3.8,0.2,,reviewed,iscgem,iscgem
+1954-04-30T23:04:34.410Z,-0.242,-18.669,15,6.45,mw,,,,,iscgem,iscgem890586,2022-04-26T17:42:52.122Z,"central Mid-Atlantic Ridge",earthquake,,6.6,0.57,,reviewed,iscgem,iscgem
+1954-04-30T13:02:39.310Z,39.228,22.162,10,6.66,mw,,,,,iscgem,iscgem890584,2022-04-26T17:42:50.897Z,"7 km NE of Anávra, Greece",earthquake,,5.6,0.3,,reviewed,iscgem,iscgem
+1954-04-29T11:34:39.260Z,29.112,-113.024,10,7.21,mw,,,,,iscgem,iscgem890579,2022-04-26T17:42:49.738Z,"94 km SSW of La Libertad, Mexico",earthquake,,9,0.32,,reviewed,iscgem,iscgem
+1954-04-29T10:49:32.220Z,29.04,-112.833,10,6.56,mw,,,,,iscgem,iscgem890578,2022-04-26T17:42:48.535Z,"90 km WNW of Bahía de Kino, Mexico",earthquake,,9,0.2,,reviewed,iscgem,iscgem
+1954-04-27T21:21:38.170Z,-56.047,147.498,10,6.36,mw,,,,,iscgem,iscgem890574,2022-04-26T17:42:47.376Z,"west of Macquarie Island",earthquake,,25,0.34,,reviewed,iscgem,iscgem
+1954-04-27T10:06:31.950Z,5.682,-82.606,35,6.36,mw,,,,,iscgem,iscgem890572,2022-04-26T17:42:46.202Z,"261 km S of Burica, Panama",earthquake,,6.3,0.47,,reviewed,iscgem,iscgem
+1954-04-26T20:24:52.090Z,52.058,158.222,65,6.31,mw,,,,,iscgem,iscgem890571,2022-04-26T17:42:45.011Z,"97 km S of Vilyuchinsk, Russia",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1954-04-25T20:33:28.000Z,36.933,-121.683,,5.3,ml,,,,,ushis,ushis1934,2018-06-04T20:43:44.000Z,"4 km ESE of Interlaken, California",earthquake,,,,,reviewed,ushis,brk
+1954-04-25T00:27:52.020Z,-1.569,-15.202,15,6.2,mw,,,,,iscgem,iscgem890562,2022-04-26T17:42:43.524Z,"north of Ascension Island",earthquake,,2.7,0.25,,reviewed,iscgem,iscgem
+1954-04-24T17:33:54.490Z,34.348,141.144,25,5.59,mw,,,,,iscgem,iscgem890560,2022-04-26T17:42:42.505Z,"116 km SE of Katsuura, Japan",earthquake,,13.4,0.2,,reviewed,iscgem,iscgem
+1954-04-18T03:03:32.800Z,-30.81,-177.867,35,5.79,mw,,,,,iscgem,iscgem890548,2022-04-26T17:42:41.492Z,"Kermadec Islands, New Zealand",earthquake,,11.2,0.62,,reviewed,iscgem,iscgem
+1954-04-17T20:52:51.010Z,37.886,22.977,20,5.7,mw,,,,,iscgem,iscgem890546,2022-04-26T17:42:40.531Z,"2 km NW of Loutrá Oraías Elénis, Greece",earthquake,,7.1,0.3,,reviewed,iscgem,iscgem
+1954-04-17T20:10:43.350Z,51.514,-179.371,25,6.64,mw,,,,,iscgem,iscgem890545,2022-04-26T17:42:39.116Z,"193 km WSW of Adak, Alaska",earthquake,,4,0.2,,reviewed,iscgem,iscgem
+1954-04-14T13:24:53.310Z,9.944,92.859,35,5.91,mw,,,,,iscgem,iscgem890537,2022-04-26T17:42:33.951Z,"190 km S of Port Blair, India",earthquake,,12.5,0.2,,reviewed,iscgem,iscgem
+1954-04-13T15:25:42.790Z,32.918,134.346,15,5.91,mw,,,,,iscgem,iscgem890534,2022-04-26T17:42:32.946Z,"44 km SSE of Muroto-misakicho, Japan",earthquake,,3.9,0.26,,reviewed,iscgem,iscgem
+1954-04-11T10:25:24.840Z,10.676,57.167,15,6.17,mw,,,,,iscgem,iscgem890528,2022-04-26T17:42:31.870Z,"Carlsberg Ridge",earthquake,,3.5,0.31,,reviewed,iscgem,iscgem
+1954-04-11T03:03:11.410Z,-7.235,155.945,35,6.16,mw,,,,,iscgem,iscgem890525,2022-04-26T17:42:26.525Z,"113 km SSE of Panguna, Papua New Guinea",earthquake,,4.8,0.2,,reviewed,iscgem,iscgem
+1954-04-08T16:40:00.430Z,-23.056,-115.247,15,6.3,mw,,,,,iscgem,iscgem890517,2022-04-26T17:42:25.533Z,"southern East Pacific Rise",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-04-04T23:14:03.820Z,41.826,142.857,56,6.05,mw,,,,,iscgem,iscgem890505,2022-04-26T17:42:24.507Z,"69 km SE of Shizunai-furukawach?, Japan",earthquake,,4.7,0.27,,reviewed,iscgem,iscgem
+1954-04-02T14:58:27.900Z,-28.545,-177.323,45.5,5.88,mw,,,,,iscgem,iscgem890497,2022-04-26T17:42:23.412Z,"Kermadec Islands region",earthquake,,4.9,0.66,,reviewed,iscgem,iscgem
+1954-04-01T18:18:45.440Z,46.527,153.663,16.5,6.18,mw,,,,,iscgem,iscgem890494,2022-04-26T17:42:22.032Z,"Kuril Islands",earthquake,,3.5,0.2,,reviewed,iscgem,iscgem
+1954-04-01T14:09:02.740Z,19.279,-67.246,33,5.72,mw,,,,,iscgem,iscgem890493,2022-04-26T17:42:20.485Z,"88 km N of San Antonio, Puerto Rico",earthquake,,3.8,0.29,,reviewed,iscgem,iscgem
+1954-03-31T18:25:50.570Z,12.185,58,15,7.1,mw,,,,,iscgem,iscgem890491,2022-04-26T17:42:18.831Z,"Owen Fracture Zone region",earthquake,,3.7,0.28,,reviewed,iscgem,iscgem
+1954-03-30T18:41:56.170Z,19.327,-155.241,15,6.07,mw,,,,,iscgemsup,iscgemsup890489,2022-05-09T20:04:42.379Z,"12 km S of Volcano, Hawaii",earthquake,,6.2,0.82,,reviewed,iscgemsup,iscgemsup
+1954-03-29T06:17:07.900Z,36.988,-3.612,626.2,7.8,mw,,,,,iscgem,iscgem890481,2022-04-26T17:42:17.119Z,"Strait of Gibraltar",earthquake,,6.7,0.3,,reviewed,iscgem,iscgem
+1954-03-29T04:01:15.950Z,19.647,121.342,25,6.12,mw,,,,,iscgem,iscgem890480,2022-04-26T17:42:15.724Z,"110 km SW of Basco, Philippines",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1954-03-28T20:36:28.340Z,51.359,175.708,35,6.34,mw,,,,,iscgem,iscgem890477,2022-04-26T17:42:14.152Z,"239 km SE of Attu Station, Alaska",earthquake,,9.8,0.21,,reviewed,iscgem,iscgem
+1954-03-26T04:35:26.660Z,41.215,142.444,59.1,5.91,mw,,,,,iscgem,iscgem890467,2022-04-26T17:42:12.460Z,"103 km E of Mutsu, Japan",earthquake,,5.2,0.2,,reviewed,iscgem,iscgem
+1954-03-23T04:14:48.330Z,33.2623333,-116.0353333,6,4.93,ml,8,249,,0.5,ci,ci3299750,2018-06-04T20:43:44.000Z,"8km WSW of Salton City, CA",earthquake,3.41,31.61,0.162,9,reviewed,ci,ci
+1954-03-22T09:38:50.050Z,-27.115,-176.641,35,5.88,mw,,,,,iscgem,iscgem890452,2022-04-26T17:42:05.710Z,"Kermadec Islands region",earthquake,,9,0.2,,reviewed,iscgem,iscgem
+1954-03-20T14:04:02.820Z,46.811,154.021,35,5.69,mw,,,,,iscgem,iscgem890446,2022-04-26T17:42:03.515Z,"east of the Kuril Islands",earthquake,,3.9,0.2,,reviewed,iscgem,iscgem
+1954-03-20T04:19:18.170Z,33.2463333,-116.0788333,6,4.74,ml,11,247,,0.46,ci,ci3299731,2018-06-04T20:43:44.000Z,"12km NNE of Ocotillo Wells, CA",earthquake,2.91,31.61,0.217,9,reviewed,ci,ci
+1954-03-19T10:21:16.330Z,33.2095,-116.0976667,6,5.48,ml,6,276,0.6567,0.61,ci,ci3299672,2018-06-04T20:43:44.000Z,"8km NNE of Ocotillo Wells, CA",earthquake,3.89,31.61,0.148,7,reviewed,ci,ci
+1954-03-19T09:57:05.070Z,33.3,-116.08,6,4.53,ml,3,282,0.6574,1.25,ci,ci3299655,2018-06-04T20:43:44.000Z,"12km W of Salton City, CA",earthquake,99,31.61,0.131,3,reviewed,ci,ci
+1954-03-19T09:55:56.190Z,33.3,-116.08,6,4.79,ml,3,282,0.6574,2.01,ci,ci3299654,2018-06-04T20:43:44.000Z,"12km W of Salton City, CA",earthquake,99,31.61,0.156,2,reviewed,ci,ci
+1954-03-19T09:54:27.830Z,33.2985,-116.0805,6,6.4,mw,10,246,,0.54,ci,ci3299653,2022-04-26T17:42:01.844Z,"12km W of Salton City, CA",earthquake,5.98,31.61,,0,reviewed,ci,ci
+1954-03-14T17:44:34.410Z,51.733,160.457,23.3,5.87,mw,,,,,iscgem,iscgem890436,2022-04-26T17:42:00.292Z,"193 km SE of Vilyuchinsk, Russia",earthquake,,3.6,0.21,,reviewed,iscgem,iscgem
+1954-03-14T08:52:42.250Z,-15.665,-179.35,15,6.24,mw,,,,,iscgem,iscgem890434,2022-04-26T17:41:58.569Z,"161 km ENE of Labasa, Fiji",earthquake,,4.5,0.21,,reviewed,iscgem,iscgem
+1954-03-11T10:30:10.910Z,13.901,-91.011,60,5.86,mw,,,,,iscgem,iscgem890428,2022-04-26T17:41:56.613Z,"20 km SSE of La Gomera, Guatemala",earthquake,,5.2,0.45,,reviewed,iscgem,iscgem
+1954-03-09T05:39:27.360Z,50,157.417,27.5,6.28,mw,,,,,iscgem,iscgem890420,2022-04-26T17:41:51.032Z,"118 km SE of Severo-Kuril’sk, Russia",earthquake,,4.5,0.3,,reviewed,iscgem,iscgem
+1954-03-09T02:21:44.180Z,0.503,-30.021,15,6.21,mw,,,,,iscgem,iscgem890418,2022-04-26T17:41:45.583Z,"central Mid-Atlantic Ridge",earthquake,,3.5,0.2,,reviewed,iscgem,iscgem
+1954-03-08T08:17:22.310Z,38.051,20.601,15,5.71,mw,,,,,iscgem,iscgem890413,2022-04-26T17:41:39.288Z,"13 km S of Valsamáta, Greece",earthquake,,7,0.24,,reviewed,iscgem,iscgem
+1954-03-07T01:44:29.510Z,-12.28,-14.023,15,5.95,mw,,,,,iscgem,iscgem890411,2022-04-26T17:41:33.890Z,"southern Mid-Atlantic Ridge",earthquake,,25,0.36,,reviewed,iscgem,iscgem
+1954-03-03T06:03:00.820Z,-5.702,142.692,15,6.81,mw,,,,,iscgem,iscgem890402,2022-04-26T17:41:28.710Z,"32 km WNW of Tari, Papua New Guinea",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-02-28T00:55:28.070Z,27.179,130.673,20,6.54,mw,,,,,iscgem,iscgem890399,2022-04-26T17:41:27.416Z,"176 km SE of Naze, Japan",earthquake,,3.6,0.2,,reviewed,iscgem,iscgem
+1954-02-27T23:34:39.280Z,-12.917,166.657,35,5.98,mw,,,,,iscgem,iscgem890398,2022-04-26T17:41:22.085Z,"143 km NW of Sola, Vanuatu",earthquake,,5.3,0.2,,reviewed,iscgem,iscgem
+1954-02-25T23:51:42.890Z,33.988,141.324,15,5.75,mw,,,,,iscgem,iscgem890393,2022-04-26T17:41:16.333Z,"158 km SE of Katsuura, Japan",earthquake,,19.1,0.2,,reviewed,iscgem,iscgem
+1954-02-24T22:30:22.550Z,35.0596667,-119.049,8.07,4.67,ml,14,78,,0.51,ci,ci3298682,2018-06-04T20:43:44.000Z,"17km NW of Grapevine, CA",earthquake,0.96,2.13,0.348,10,reviewed,ci,ci
+1954-02-23T06:40:35.900Z,27.672,91.605,15,6.16,mw,,,,,iscgem,iscgem890383,2022-04-26T17:41:10.383Z,"12 km ENE of Trashi Yangtse, Bhutan",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-02-22T10:26:45.380Z,34.122,141.279,15,5.97,mw,,,,,iscgem,iscgem890378,2022-04-26T17:41:05.229Z,"143 km SE of Katsuura, Japan",earthquake,,3.2,0.2,,reviewed,iscgem,iscgem
+1954-02-22T06:11:28.010Z,34.111,141.212,15,5.96,mw,,,,,iscgem,iscgem890376,2022-04-26T17:40:59.596Z,"141 km SE of Katsuura, Japan",earthquake,,3.2,0.2,,reviewed,iscgem,iscgem
+1954-02-21T01:29:12.820Z,11.651,-86.622,35,5.56,mw,,,,,iscgem,iscgem890368,2022-04-26T17:40:54.538Z,"19 km SW of Masachapa, Nicaragua",earthquake,,23.8,0.42,,reviewed,iscgem,iscgem
+1954-02-20T21:28:26.240Z,-30.348,-176.665,15,6.12,mw,,,,,iscgem,iscgem890365,2022-04-26T17:40:48.693Z,"Kermadec Islands region",earthquake,,3.6,0.2,,reviewed,iscgem,iscgem
+1954-02-20T02:00:55.670Z,11.734,-86.966,35,5.94,mw,,,,,iscgem,iscgem890361,2022-04-26T17:40:47.706Z,"49 km W of Masachapa, Nicaragua",earthquake,,22.3,0.2,,reviewed,iscgem,iscgem
+1954-02-19T21:34:51.140Z,11.775,-86.818,35,6.8,mw,,,,,iscgem,iscgem890359,2022-04-26T17:40:46.353Z,"33 km W of Masachapa, Nicaragua",earthquake,,18.8,0.4,,reviewed,iscgem,iscgem
+1954-02-19T19:07:52.250Z,-30.248,-177.371,25,6.58,mw,,,,,iscgem,iscgem890358,2022-04-26T17:40:40.949Z,"Kermadec Islands, New Zealand",earthquake,,12.9,0.43,,reviewed,iscgem,iscgem
+1954-02-19T13:28:30.890Z,45.104,90.991,15,5.71,mw,,,,,iscgem,iscgem890356,2022-04-26T17:40:30.025Z,"280 km NNE of Turpan, China",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-02-19T00:40:37.490Z,11.541,-87.009,35,6.8,mw,,,,,iscgem,iscgem890355,2022-04-26T17:40:23.600Z,"60 km WSW of Masachapa, Nicaragua",earthquake,,22.3,0.4,,reviewed,iscgem,iscgem
+1954-02-17T01:38:57.950Z,52.045,160.469,30,6,mw,,,,,iscgem,iscgem890347,2022-04-26T17:40:18.018Z,"168 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,,3.8,0.34,,reviewed,iscgem,iscgem
+1954-02-12T09:44:27.490Z,33.3216667,-116.4478333,14.45,4.5,ml,11,217,,0.44,ci,ci3301261,2018-06-04T20:43:44.000Z,"10km NW of Borrego Springs, CA",earthquake,1.69,1.54,0.116,10,reviewed,ci,ci
+1954-02-11T00:30:20.950Z,38.956,101.217,25,6.98,mw,,,,,iscgem,iscgem890326,2022-04-26T17:40:12.908Z,"66 km E of Zhangye, China",earthquake,,3.9,0.21,,reviewed,iscgem,iscgem
+1954-02-10T23:58:38.280Z,34.9296667,-119.0988333,9.56,4.61,ml,14,90,0.1733,0.48,ci,ci3301260,2018-06-04T20:43:44.000Z,"10km NNE of Pine Mountain Club, CA",earthquake,0.86,2.09,0.132,11,reviewed,ci,ci
+1954-02-09T23:27:42.630Z,35.394,-34.934,15,5.75,mw,,,,,iscgem,iscgem890322,2022-04-26T17:40:07.597Z,"Azores Islands region",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-02-07T00:09:53.230Z,35.0446667,-119.082,7.9,4.56,ml,14,83,,0.5,ci,ci3301253,2017-02-07T04:56:28.114Z,"18km NW of Grapevine, CA",earthquake,1.24,3.22,0.146,9,reviewed,ci,ci
+1954-02-05T15:18:04.880Z,17.283,-92.382,85,6.08,mw,,,,,iscgem,iscgem890309,2022-04-26T17:40:06.445Z,"1 km N of Misija, Mexico",earthquake,,5,0.2,,reviewed,iscgem,iscgem
+1954-02-05T09:19:53.040Z,-4.495,153.275,35,6.65,mw,,,,,iscgem,iscgem890307,2022-04-26T17:40:05.145Z,"112 km E of Kokopo, Papua New Guinea",earthquake,,31.9,0.2,,reviewed,iscgem,iscgem
+1954-02-02T17:45:48.540Z,83.037,-6.764,15,5.47,mw,,,,,iscgem,iscgem890304,2022-04-26T17:40:03.869Z,"north of Svalbard",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1954-02-01T13:05:10.160Z,31.7188333,-114.0115,6,5.36,ml,10,329,2.451,0.38,ci,ci3301223,2017-02-07T04:26:26.818Z,"107km ESE of Estacion Coahuila, B.C., MX",earthquake,22.64,31.61,0.065,4,reviewed,ci,ci
+1954-02-01T04:31:48.850Z,32.1946667,-114.3516667,6,5.66,ml,10,328,2.021,0.45,ci,ci3301219,2020-07-09T21:25:47.604Z,"50km SE of San Luis Rio Colorado, Son., MX",earthquake,7.03,31.61,0.22,8,reviewed,ci,ci
+1954-02-01T04:23:45.790Z,32.2028333,-114.5545,6,5.21,ml,11,320,1.853,0.42,ci,ci3301218,2017-02-07T04:18:17.245Z,"36km SE of San Luis Rio Colorado, Son., MX",earthquake,6.16,31.61,0.184,8,reviewed,ci,ci
+1954-02-01T01:06:56.350Z,24.057,143.467,15,7.2,mw,,,,,iscgem,iscgem890294,2022-04-26T17:39:58.499Z,"Volcano Islands, Japan region",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-01-27T14:19:48.190Z,35.143,-118.5856667,6,4.96,ml,12,106,,0.54,ci,ci3301213,2018-06-04T20:43:44.000Z,"12km W of Tehachapi, CA",earthquake,1.11,31.61,0.102,9,reviewed,ci,ci
+1954-01-24T13:32:53.090Z,37.41,20.682,15,5.26,mw,,,,,iscgemsup,iscgemsup890276,2022-05-09T20:03:33.444Z,"36 km SSW of Lithakiá, Greece",earthquake,,15.3,0.23,,reviewed,iscgemsup,iscgemsup
+1954-01-23T17:12:00.450Z,37.381,72.365,15,5.65,mw,,,,,iscgem,iscgem890274,2022-04-26T17:39:53.091Z,"47 km N of Khand?d, Afghanistan",earthquake,,47.5,0.65,,reviewed,iscgem,iscgem
+1954-01-23T16:06:33.310Z,37.332,72.415,15,5.9,mw,,,,,iscgem,iscgem890273,2022-04-26T17:39:51.943Z,"43 km NNE of Khand?d, Afghanistan",earthquake,,47.5,0.21,,reviewed,iscgem,iscgem
+1954-01-20T04:16:31.830Z,8.271,-103.236,15,6.04,mw,,,,,iscgem,iscgem890266,2022-04-26T17:39:50.656Z,"northern East Pacific Rise",earthquake,,6.5,0.2,,reviewed,iscgem,iscgem
+1954-01-18T14:16:11.020Z,37.278,21.463,18,5.33,mw,,,,,iscgemsup,iscgemsup890261,2022-05-09T20:03:27.697Z,"17 km NW of Filiatrá, Greece",earthquake,,9.9,0.37,,reviewed,iscgemsup,iscgemsup
+1954-01-17T17:39:37.690Z,-16.997,35.718,15,5.9,mw,,,,,iscgem,iscgem890256,2022-04-26T17:39:45.017Z,"49 km E of Nsanje, Malawi",earthquake,,3.9,0.26,,reviewed,iscgem,iscgem
+1954-01-13T01:45:31.100Z,35.0365,-119.0866667,8.48,4.6,ml,13,83,0.2248,0.35,ci,ci3301121,2017-02-07T04:53:45.911Z,"18km NW of Grapevine, CA",earthquake,0.6,1.51,0.067,12,reviewed,ci,ci
+1954-01-13T00:13:14.140Z,-48.707,165.278,15,6.71,mw,,,,,iscgem,iscgem890246,2022-04-26T17:39:39.148Z,"off the west coast of the South Island of New Zealand",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1954-01-12T23:33:48.280Z,34.9823333,-119.0613333,0.02,5.4,ml,12,88,,0.69,ci,ci3301140,2022-04-26T17:39:28.106Z,"13km WNW of Grapevine, CA",earthquake,1.49,3.16,0.064,6,reviewed,ci,ci
+1954-01-12T14:20:33.620Z,-48.691,164.903,35,6.75,mw,,,,,iscgem,iscgem890242,2022-04-26T17:39:16.896Z,"off the west coast of the South Island of New Zealand",earthquake,,25,0.29,,reviewed,iscgem,iscgem
+1954-01-12T14:16:30.120Z,-48.57,165.057,35,6.52,mw,,,,,iscgem,iscgem890241,2022-04-26T17:39:10.591Z,"off the west coast of the South Island of New Zealand",earthquake,,4.8,0.55,,reviewed,iscgem,iscgem
+1954-01-11T17:09:06.870Z,22.86,125.661,15,6.04,mw,,,,,iscgem,iscgem890239,2022-04-26T17:39:05.430Z,"218 km S of Hirara, Japan",earthquake,,45.7,0.31,,reviewed,iscgem,iscgem
+1954-01-09T08:06:32.610Z,34.799,141.92,15,5.57,mw,,,,,iscgem,iscgem890236,2022-04-26T17:39:00.865Z,"143 km SE of Hasaki, Japan",earthquake,,19.8,0.63,,reviewed,iscgem,iscgem
+1954-01-01T13:04:18.520Z,-8.981,123.668,60,6.21,mw,,,,,iscgemsup,iscgemsup890215,2022-05-09T20:03:11.722Z,"69 km N of Naisano Dua, Indonesia",earthquake,,6.1,0.78,,reviewed,iscgemsup,iscgemsup
