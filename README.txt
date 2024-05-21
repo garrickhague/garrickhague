@@ -1,6 +1,6 @@
-Garrick's Data Science Portfolio
+Garrick's Portfolio
 
-Welcome to my data science portfolio! My name is Garrick and I'm an aspiring data scientist, currently working on building the skills necessary to land my first job as an analyst. Eventually, I hope to work my way up to becoming a full-fledged data scientist.
+Welcome to my portfolio! My name is Garrick and I'm an aspiring climate scientist, currently working on building the skills necessary to land my first job as an analyst. Eventually, I hope to work my way up to becoming a full-fledged climate scientist.
 
 In this repository, you'll find examples of some of the projects I've been working on, along with the code and data used to complete them. My goal with this portfolio is to showcase my skills as a data analyst and data scientist, as well as my ability to effectively communicate my findings.
 
